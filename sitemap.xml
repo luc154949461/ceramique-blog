@@ -1,12 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/science/raku-enfumage-cristallisation-quand-le-hasard-devient-science/</loc>
+    <lastmod>2020-03-16</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/science/porcelaine-la-science-d-une-perfection-translucide/</loc>
+    <lastmod>2020-03-09</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/science/d-ou-viennent-les-couleurs-oxydes-metalliques-et-secrets-de-palette/</loc>
+    <lastmod>2020-03-02</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/science/la-chimie-des-emaux-pourquoi-le-verre-colle-a-la-terre/</loc>
+    <lastmod>2020-02-24</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/science/que-se-passe-t-il-dans-le-four-les-metamorphoses-de-la-cuisson/</loc>
     <lastmod>2020-02-17</lastmod>
   </url>
   <url>
+    <loc>https://ceramique.uk/saisonnier/saint-valentin-les-ceramiques-du-coeur-de-l-antiquite-aux-createurs-d-aujourd-hui/</loc>
+    <lastmod>2020-02-14</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/science/d-ou-vient-l-argile-geologie-d-un-materiau-miraculeux/</loc>
     <lastmod>2020-02-10</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/tendances-ceramique-2020-l-essor-des-formes-organiques-et-des-emaux-textures/</loc>
+    <lastmod>2020-01-06</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisons/noel-2019-selection-cadeaux-ceramique-budgets/</loc>
@@ -130,7 +154,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/saisonnier/</loc>
-    <lastmod>2026-03-28T21:12:59.555680+00:00</lastmod>
+    <lastmod>2020-02-14</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisons/</loc>
@@ -138,11 +162,11 @@
   </url>
   <url>
     <loc>https://ceramique.uk/science-ceramique/</loc>
-    <lastmod>2026-03-28T21:12:59.555680+00:00</lastmod>
+    <lastmod>2026-03-28T21:33:11.784672+00:00</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/science/</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-03-16</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/tendances/</loc>
@@ -150,6 +174,6 @@
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2020-02-17</lastmod>
+    <lastmod>2020-03-16</lastmod>
   </url>
 </urlset>

@@ -4,11 +4,43 @@
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
-  <updated>2020-02-17</updated>
+  <updated>2020-03-16</updated>
   <author>
     <name>Ceramique Blog</name>
   </author>
   <subtitle>Blog sur la ceramique, les techniques et les materiaux</subtitle>
+  <entry>
+    <title>Raku, enfumage, cristallisation : quand le hasard devient science</title>
+    <link href="https://ceramique.uk/science/raku-enfumage-cristallisation-quand-le-hasard-devient-science/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/science/raku-enfumage-cristallisation-quand-le-hasard-devient-science/</id>
+    <published>2020-03-16</published>
+    <updated>2020-03-16</updated>
+    <summary>Raku, enfumage, emaux cristallins : trois techniques ceramiques ou la science flirte avec le chaos. Choc thermique et carbone piege dans les craquelures, sels volatils dansant dans la fumee, cristaux de zinc poussant au ralenti dans le verre fondu — decouvre pourquoi ces cuissons produisent des resultats irreproductibles, et pourquoi c'est exactement le but.</summary>
+  </entry>
+  <entry>
+    <title>Porcelaine : la science d'une perfection translucide</title>
+    <link href="https://ceramique.uk/science/porcelaine-la-science-d-une-perfection-translucide/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/science/porcelaine-la-science-d-une-perfection-translucide/</id>
+    <published>2020-03-09</published>
+    <updated>2020-03-09</updated>
+    <summary>La porcelaine est le plus noble des materiaux ceramiques : translucide, dure, eclatante de blancheur. Mais derriere cette perfection se cache une chimie fascinante — la trinite du kaolin, du feldspath et du quartz, transformee a 1400°C en un composite d'aiguilles de mullite et de verre. De la percee de Meissen en 1708 aux ceramiques techniques modernes, decouvre la science de l'or blanc.</summary>
+  </entry>
+  <entry>
+    <title>D'ou viennent les couleurs ? Oxydes metalliques et secrets de palette</title>
+    <link href="https://ceramique.uk/science/d-ou-viennent-les-couleurs-oxydes-metalliques-et-secrets-de-palette/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/science/d-ou-viennent-les-couleurs-oxydes-metalliques-et-secrets-de-palette/</id>
+    <published>2020-03-02</published>
+    <updated>2020-03-02</updated>
+    <summary>Fer, cuivre, cobalt, manganese, chrome : une poignee d'oxydes metalliques suffit a creer toute la palette de la ceramique. Decouvre comment ces elements chimiques produisent leurs couleurs — et pourquoi l'atmosphere du four peut tout changer.</summary>
+  </entry>
+  <entry>
+    <title>La chimie des emaux : pourquoi le verre colle a la terre</title>
+    <link href="https://ceramique.uk/science/la-chimie-des-emaux-pourquoi-le-verre-colle-a-la-terre/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/science/la-chimie-des-emaux-pourquoi-le-verre-colle-a-la-terre/</id>
+    <published>2020-02-24</published>
+    <updated>2020-02-24</updated>
+    <summary>Silice, alumine, fondants : derriere chaque email ceramique se cache un equilibre chimique precis. De la formule de Seger aux defauts redoutes — tressaillage, retrait, piquage — decouvre la science qui transforme de la poudre en surface vitreuse.</summary>
+  </entry>
   <entry>
     <title>Que se passe-t-il dans le four ? Les metamorphoses de la cuisson</title>
     <link href="https://ceramique.uk/science/que-se-passe-t-il-dans-le-four-les-metamorphoses-de-la-cuisson/" rel="alternate" type="text/html"/>
@@ -18,12 +50,28 @@
     <summary>De 100°C a 1300°C, l'argile traverse une serie de metamorphoses chimiques spectaculaires dans le four du ceramiste. Deshydroxylation, vitrification, oxydation ou reduction : decouvre ce qui se passe vraiment derriere la porte du four.</summary>
   </entry>
   <entry>
+    <title>Saint-Valentin : les ceramiques du coeur, de l'Antiquite aux createurs d'aujourd'hui</title>
+    <link href="https://ceramique.uk/saisonnier/saint-valentin-les-ceramiques-du-coeur-de-l-antiquite-aux-createurs-d-aujourd-hui/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/saint-valentin-les-ceramiques-du-coeur-de-l-antiquite-aux-createurs-d-aujourd-hui/</id>
+    <published>2020-02-14</published>
+    <updated>2020-02-14</updated>
+    <summary>Des ex-voto en terre cuite de l'Antiquite romaine aux tabatieres en porcelaine de Meissen, des fairings victoriennes aux creations artisanales d'aujourd'hui : le coeur en ceramique traverse les siecles comme un symbole universel du don de soi.</summary>
+  </entry>
+  <entry>
     <title>D'ou vient l'argile ? Geologie d'un materiau miraculeux</title>
     <link href="https://ceramique.uk/science/d-ou-vient-l-argile-geologie-d-un-materiau-miraculeux/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/science/d-ou-vient-l-argile-geologie-d-un-materiau-miraculeux/</id>
     <published>2020-02-10</published>
     <updated>2020-02-10</updated>
     <summary>L'argile que les potiers faconnent chaque jour est le fruit de millions d'annees d'erosion geologique. De la kaolinite de Limoges a celle de Jingdezhen, decouvre comment les roches deviennent cette matiere miraculeuse qui fait la ceramique.</summary>
+  </entry>
+  <entry>
+    <title>Tendances ceramique 2020 : l'essor des formes organiques et des emaux textures</title>
+    <link href="https://ceramique.uk/saisonnier/tendances-ceramique-2020-l-essor-des-formes-organiques-et-des-emaux-textures/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/tendances-ceramique-2020-l-essor-des-formes-organiques-et-des-emaux-textures/</id>
+    <published>2020-01-06</published>
+    <updated>2020-01-06</updated>
+    <summary>Formes biomorphiques, emaux textures, esthetique neo-wabi-sabi, tons de terre et imperatif ecologique : les grandes tendances de la ceramique en 2020 dessinent un retour au vivant et a l'authentique, de Maison &amp; Objet a Collect.</summary>
   </entry>
   <entry>
     <title>Noel 2019 : notre selection de 12 cadeaux ceramique pour tous les budgets</title>
@@ -120,53 +168,5 @@
     <published>2019-06-11</published>
     <updated>2019-06-11</updated>
     <summary>Troisieme et dernier volet. Des cachots de la Bastille ou il mourut en 1590 pour avoir refuse d'abjurer sa foi, au projet FIGULINES du Louvre qui ressuscite aujourd'hui son oeuvre par la science et la</summary>
-  </entry>
-  <entry>
-    <title>Bernard Palissy : les rustiques figulines du roi (2/3)</title>
-    <link href="https://ceramique.uk/portraits/bernard-palissy-rustiques-figulines-roi-2sur3/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/portraits/bernard-palissy-rustiques-figulines-roi-2sur3/</id>
-    <published>2019-06-10</published>
-    <updated>2019-06-10</updated>
-    <summary>Moulages sur specimens reels, glacures au plomb et oxydes metalliques, grotte des Tuileries pour Catherine de Medicis : plongee dans l'oeuvre stupéfiante de Bernard Palissy, ceramiste du roi.</summary>
-  </entry>
-  <entry>
-    <title>Bernard Palissy : l homme qui brulait ses meubles pour le secret de l email (1/3)</title>
-    <link href="https://ceramique.uk/portraits/bernard-palissy-homme-brulait-meubles-email-1sur3/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/portraits/bernard-palissy-homme-brulait-meubles-email-1sur3/</id>
-    <published>2019-06-05</published>
-    <updated>2019-06-05</updated>
-    <summary>Pendant seize ans, Bernard Palissy a brule ses meubles, ruine sa famille et defie les guerres de Religion pour percer le secret de l'email. Portrait d'un obsede de la ceramique dans la France du XVIe siecle.</summary>
-  </entry>
-  <entry>
-    <title>La ceramique aujourd hui : 29 000 ans d heritage face au defi ecologique</title>
-    <link href="https://ceramique.uk/histoire/ceramique-aujourd-hui-heritage-defi-ecologique/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/histoire/ceramique-aujourd-hui-heritage-defi-ecologique/</id>
-    <published>2019-06-04</published>
-    <updated>2019-06-04</updated>
-    <summary>Dernier volet de la serie « 29 000 ans de terre et de feu ». Du mouvement slow craft a l'esthetique wabi-sabi, de l'impression 3D ceramique aux emaux ecologiques : ou en est la ceramique en 2025-2026,</summary>
-  </entry>
-  <entry>
-    <title>Raku Wabi-Sabi et Kintsugi : quand la ceramique japonaise devient philosophie</title>
-    <link href="https://ceramique.uk/histoire/raku-wabi-sabi-kintsugi-ceramique-japonaise-philosophie/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/histoire/raku-wabi-sabi-kintsugi-ceramique-japonaise-philosophie/</id>
-    <published>2019-06-03</published>
-    <updated>2019-06-03</updated>
-    <summary>Murata Juko, Sen no Rikyu, bols Raku et Kintsugi : plongée dans trois traditions japonaises ou l'imperfection devient art et ou un bol brise vaut plus qu'un bol intact.</summary>
-  </entry>
-  <entry>
-    <title>Ete 2019 : la ceramique sort sur la terrasse</title>
-    <link href="https://ceramique.uk/saisons/ete-2019-ceramique-terrasse/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisons/ete-2019-ceramique-terrasse/</id>
-    <published>2019-06-01</published>
-    <updated>2019-06-01</updated>
-    <summary>Vaisselle en gres pour les diners en terrasse, stages poterie en Provence, marches de potiers : cet ete, la ceramique vit dehors.</summary>
-  </entry>
-  <entry>
-    <title>Journee du ceramiste 2019 : 5 artisans racontent pourquoi ils ont choisi la terre</title>
-    <link href="https://ceramique.uk/portraits/journee-ceramiste-2019-artisans-terre/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/portraits/journee-ceramiste-2019-artisans-terre/</id>
-    <published>2019-05-21</published>
-    <updated>2019-05-21</updated>
-    <summary>Le 28 mai, Journee mondiale du ceramiste, cinq artisans aux parcours singuliers racontent comment et pourquoi ils ont choisi de travailler la terre : vocation precoce, reconversion tardive, heritage familial ou rencontre decisive.</summary>
   </entry>
 </feed>
