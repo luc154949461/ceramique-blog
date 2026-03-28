@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ceramique Blog</title>
+  <link href="https://luc154949461.github.io/ceramique-blog/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://luc154949461.github.io/ceramique-blog/" rel="alternate" type="text/html"/>
+  <id>https://luc154949461.github.io/ceramique-blog/</id>
+  <updated>2019-04-07</updated>
+  <author>
+    <name>Ceramique Blog</name>
+  </author>
+  <subtitle>Blog sur la ceramique, les techniques et les materiaux</subtitle>
+  <entry>
+    <title>La Route de la Soie en bleu et blanc : comment la porcelaine chinoise a conquis le monde</title>
+    <link href="https://luc154949461.github.io/ceramique-blog/histoire/route-de-la-soie-bleu-et-blanc-porcelaine-chinoise/" rel="alternate" type="text/html"/>
+    <id>https://luc154949461.github.io/ceramique-blog/histoire/route-de-la-soie-bleu-et-blanc-porcelaine-chinoise/</id>
+    <published>2019-04-07</published>
+    <updated>2019-04-07</updated>
+    <summary>Du IXe siecle a la Renaissance, la porcelaine bleu et blanc a voyage de la Chine a Bassora, d'Istanbul a Delft, tissant l'un des plus grands dialogues creatifs entre civilisations. Retour sur une aventure commerciale et artistique hors norme, portee par la Route de la Soie.</summary>
+  </entry>
+  <entry>
+    <title>Les potiers Jomon : 16 000 ans d innovation ceramique au Japon</title>
+    <link href="https://luc154949461.github.io/ceramique-blog/histoire/les-potiers-jomon-16000-ans-innovation-ceramique-japon/" rel="alternate" type="text/html"/>
+    <id>https://luc154949461.github.io/ceramique-blog/histoire/les-potiers-jomon-16000-ans-innovation-ceramique-japon/</id>
+    <published>2019-04-06</published>
+    <updated>2019-04-06</updated>
+    <summary>Il y a 16 500 ans, des chasseurs-cueilleurs japonais inventaient la ceramique utilitaire, bien avant l'agriculture et la sedentarisation. Des colombins d'Odai Yamamoto aux spectaculaires poteries a flammes, en passant par les decouvertes recentes sous le lac Biwa, la tradition Jomon couvre 14 000 ans d'innovation et reste une source d'emerveillement pour tout ceramiste.</summary>
+  </entry>
+  <entry>
+    <title>La Venus de Dolni Vestonice : quand l humanite inventa la ceramique il y a 29 000 ans</title>
+    <link href="https://luc154949461.github.io/ceramique-blog/histoire/la-venus-de-dolni-vestonice-ceramique-29000-ans/" rel="alternate" type="text/html"/>
+    <id>https://luc154949461.github.io/ceramique-blog/histoire/la-venus-de-dolni-vestonice-ceramique-29000-ans/</id>
+    <published>2019-04-05</published>
+    <updated>2019-04-05</updated>
+    <summary>Il y a 29 000 ans, au coeur de la Moravie glaciaire, des chasseurs de mammouths ont modelé et cuit la toute première céramique de l'histoire : la Vénus de Dolní Věstonice. Une figurine de 11 cm, une empreinte d'enfant figée dans l'argile, des milliers de figurines animales volontairement explosées dans des fours rituels — et l'invention d'un art qui ne nous a plus jamais quittés.</summary>
+  </entry>
+  <entry>
+    <title>Bienvenue sur Ceramique Blog</title>
+    <link href="https://luc154949461.github.io/ceramique-blog/a-propos/bienvenue-ceramique-blog-communaute-passionnes/" rel="alternate" type="text/html"/>
+    <id>https://luc154949461.github.io/ceramique-blog/a-propos/bienvenue-ceramique-blog-communaute-passionnes/</id>
+    <published>2019-04-04</published>
+    <updated>2019-04-04</updated>
+    <summary>Decouvrez notre communaute dediee a la ceramique contemporaine, aux createurs et a leurs oeuvres.</summary>
+  </entry>
+</feed>

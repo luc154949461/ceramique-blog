@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luc154949461.github.io/ceramique-blog/sitemap.xml
