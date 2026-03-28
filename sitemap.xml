@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/saisons/noel-2019-selection-cadeaux-ceramique-budgets/</loc>
+    <lastmod>2019-11-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/evenements/journees-patrimoine-2019-manufactures-ceramique/</loc>
+    <lastmod>2019-09-14</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/portraits/magdalene-odundo-corps-feminin-ceramique-2sur2/</loc>
     <lastmod>2019-06-21</lastmod>
   </url>
@@ -102,7 +110,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/evenements/</loc>
-    <lastmod>2019-03-30</lastmod>
+    <lastmod>2019-09-14</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/histoire/</loc>
@@ -114,7 +122,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/saisons/</loc>
-    <lastmod>2019-06-01</lastmod>
+    <lastmod>2019-11-25</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/tendances/</loc>
@@ -122,6 +130,6 @@
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2019-06-21</lastmod>
+    <lastmod>2019-11-25</lastmod>
   </url>
 </urlset>
