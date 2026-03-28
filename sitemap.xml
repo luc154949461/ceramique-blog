@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/saisons/ete-2019-ceramique-terrasse/</loc>
+    <lastmod>2019-04-13</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisons/fete-des-meres-2019-cadeaux-ceramique/</loc>
+    <lastmod>2019-04-12</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/portraits/journee-ceramiste-2019-artisans-terre/</loc>
+    <lastmod>2019-04-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/evenements/jema-2019-ateliers-ceramistes/</loc>
+    <lastmod>2019-04-10</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisons/saint-valentin-2019-ceramique-cadeaux/</loc>
+    <lastmod>2019-04-09</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/tendances/tendances-ceramique-2019/</loc>
+    <lastmod>2019-04-08</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/histoire/route-de-la-soie-bleu-et-blanc-porcelaine-chinoise/</loc>
     <lastmod>2019-04-07</lastmod>
   </url>
@@ -22,7 +46,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/evenements/</loc>
-    <lastmod>2026-03-28T14:42:16.137645+00:00</lastmod>
+    <lastmod>2019-04-10</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/histoire/</loc>
@@ -30,18 +54,18 @@
   </url>
   <url>
     <loc>https://ceramique.uk/portraits/</loc>
-    <lastmod>2026-03-28T14:42:16.137645+00:00</lastmod>
+    <lastmod>2019-04-11</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisons/</loc>
-    <lastmod>2026-03-28T14:42:16.137645+00:00</lastmod>
+    <lastmod>2019-04-13</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/tendances/</loc>
-    <lastmod>2026-03-28T14:42:16.137645+00:00</lastmod>
+    <lastmod>2019-04-08</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2019-04-07</lastmod>
+    <lastmod>2019-04-13</lastmod>
   </url>
 </urlset>
