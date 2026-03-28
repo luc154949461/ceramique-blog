@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/portraits/magdalene-odundo-corps-feminin-ceramique-2sur2/</loc>
+    <lastmod>2019-06-21</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/portraits/magdalene-odundo-terre-entre-deux-mondes-1sur2/</loc>
+    <lastmod>2019-06-20</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/portraits/lucie-rie-revolution-emaux-dame-empire-3sur3/</loc>
     <lastmod>2019-06-19</lastmod>
   </url>
@@ -102,7 +110,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/portraits/</loc>
-    <lastmod>2019-06-19</lastmod>
+    <lastmod>2019-06-21</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisons/</loc>
@@ -114,6 +122,6 @@
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2019-06-19</lastmod>
+    <lastmod>2019-06-21</lastmod>
   </url>
 </urlset>
