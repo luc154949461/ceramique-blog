@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/saisonnier/journees-du-patrimoine-2020-la-ceramique-dans-les-lieux-que-vous-ne-soupconnez-pas/</loc>
+    <lastmod>2020-09-19</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/ete-ceramique-terre-et-eau-les-cuissons-en-plein-air/</loc>
+    <lastmod>2020-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/fete-des-meres-offrir-de-la-ceramique-un-geste-qui-a-du-sens/</loc>
+    <lastmod>2020-05-31</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/jema-2020-guide-du-curieux-pour-les-journees-europeennes-des-metiers-d-art/</loc>
+    <lastmod>2020-04-03</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/science/ceramiques-du-futur-quand-la-high-tech-rencontre-l-atelier/</loc>
+    <lastmod>2020-03-23</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/science/raku-enfumage-cristallisation-quand-le-hasard-devient-science/</loc>
     <lastmod>2020-03-16</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/journee-internationale-du-ceramiste-eloge-de-la-main-qui-tourne/</loc>
+    <lastmod>2020-03-12</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/science/porcelaine-la-science-d-une-perfection-translucide/</loc>
@@ -154,7 +178,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/saisonnier/</loc>
-    <lastmod>2020-02-14</lastmod>
+    <lastmod>2020-09-19</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisons/</loc>
@@ -162,11 +186,11 @@
   </url>
   <url>
     <loc>https://ceramique.uk/science-ceramique/</loc>
-    <lastmod>2026-03-28T21:33:11.784672+00:00</lastmod>
+    <lastmod>2026-03-28T22:02:33.470688+00:00</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/science/</loc>
-    <lastmod>2020-03-16</lastmod>
+    <lastmod>2020-03-23</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/tendances/</loc>
@@ -174,6 +198,6 @@
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2020-03-16</lastmod>
+    <lastmod>2020-09-19</lastmod>
   </url>
 </urlset>
