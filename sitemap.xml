@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/portraits/chojiro-sen-no-rikyu-bol-invente-silence-1sur2/</loc>
+    <lastmod>2019-06-12</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/portraits/bernard-palissy-mort-bastille-immortel-3sur3/</loc>
     <lastmod>2019-06-11</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/portraits/bernard-palissy-rustiques-figulines-roi-2sur3/</loc>
     <lastmod>2019-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/portraits/bernard-palissy-homme-brulait-meubles-email-1sur3/</loc>
+    <lastmod>2019-06-05</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/histoire/ceramique-aujourd-hui-heritage-defi-ecologique/</loc>
@@ -70,7 +78,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/portraits/</loc>
-    <lastmod>2019-06-11</lastmod>
+    <lastmod>2019-06-12</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisons/</loc>
@@ -82,6 +90,6 @@
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2019-06-11</lastmod>
+    <lastmod>2019-06-12</lastmod>
   </url>
 </urlset>

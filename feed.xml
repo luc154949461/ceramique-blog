@@ -4,11 +4,19 @@
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
-  <updated>2019-06-11</updated>
+  <updated>2019-06-12</updated>
   <author>
     <name>Ceramique Blog</name>
   </author>
   <subtitle>Blog sur la ceramique, les techniques et les materiaux</subtitle>
+  <entry>
+    <title>Chojiro et Sen no Rikyu : le bol qui a invente le silence (1/2)</title>
+    <link href="https://ceramique.uk/portraits/chojiro-sen-no-rikyu-bol-invente-silence-1sur2/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/portraits/chojiro-sen-no-rikyu-bol-invente-silence-1sur2/</id>
+    <published>2019-06-12</published>
+    <updated>2019-06-12</updated>
+    <summary>Kyoto, fin du XVIe siecle. Un tuilier du palais Jurakudai et le plus grand maitre de the du Japon inventent ensemble un bol noir, sans decor, faconne a la main. Il s'appelle raku. Il va reinventer le silence.</summary>
+  </entry>
   <entry>
     <title>Bernard Palissy : mort a la Bastille immortel dans l argile (3/3)</title>
     <link href="https://ceramique.uk/portraits/bernard-palissy-mort-bastille-immortel-3sur3/" rel="alternate" type="text/html"/>
@@ -24,6 +32,14 @@
     <published>2019-06-10</published>
     <updated>2019-06-10</updated>
     <summary>Moulages sur specimens reels, glacures au plomb et oxydes metalliques, grotte des Tuileries pour Catherine de Medicis : plongee dans l'oeuvre stupéfiante de Bernard Palissy, ceramiste du roi.</summary>
+  </entry>
+  <entry>
+    <title>Bernard Palissy : l homme qui brulait ses meubles pour le secret de l email (1/3)</title>
+    <link href="https://ceramique.uk/portraits/bernard-palissy-homme-brulait-meubles-email-1sur3/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/portraits/bernard-palissy-homme-brulait-meubles-email-1sur3/</id>
+    <published>2019-06-05</published>
+    <updated>2019-06-05</updated>
+    <summary>Pendant seize ans, Bernard Palissy a brule ses meubles, ruine sa famille et defie les guerres de Religion pour percer le secret de l'email. Portrait d'un obsede de la ceramique dans la France du XVIe siecle.</summary>
   </entry>
   <entry>
     <title>La ceramique aujourd hui : 29 000 ans d heritage face au defi ecologique</title>
