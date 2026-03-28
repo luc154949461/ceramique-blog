@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/portraits/bernard-palissy-mort-bastille-immortel-3sur3/</loc>
+    <lastmod>2019-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/portraits/bernard-palissy-rustiques-figulines-roi-2sur3/</loc>
+    <lastmod>2019-06-10</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/histoire/ceramique-aujourd-hui-heritage-defi-ecologique/</loc>
+    <lastmod>2019-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/histoire/raku-wabi-sabi-kintsugi-ceramique-japonaise-philosophie/</loc>
+    <lastmod>2019-06-03</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/saisons/ete-2019-ceramique-terrasse/</loc>
     <lastmod>2019-06-01</lastmod>
   </url>
@@ -50,11 +66,11 @@
   </url>
   <url>
     <loc>https://ceramique.uk/histoire/</loc>
-    <lastmod>2019-04-07</lastmod>
+    <lastmod>2019-06-04</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/portraits/</loc>
-    <lastmod>2019-05-21</lastmod>
+    <lastmod>2019-06-11</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisons/</loc>
@@ -66,6 +82,6 @@
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2019-06-01</lastmod>
+    <lastmod>2019-06-11</lastmod>
   </url>
 </urlset>
