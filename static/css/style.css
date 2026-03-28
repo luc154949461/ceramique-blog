@@ -42,8 +42,8 @@ img { max-width: 100%; height: auto; display: block; }
 header {
     background: var(--c-surface);
     border-bottom: 1px solid var(--c-border);
-    position: sticky;
-    top: 0;
+    position: relative;
+    
     z-index: 100;
     backdrop-filter: blur(12px);
     background: rgba(255,255,255,.92);
