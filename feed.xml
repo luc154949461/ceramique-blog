@@ -4,11 +4,27 @@
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
-  <updated>2019-11-25</updated>
+  <updated>2020-02-17</updated>
   <author>
     <name>Ceramique Blog</name>
   </author>
   <subtitle>Blog sur la ceramique, les techniques et les materiaux</subtitle>
+  <entry>
+    <title>Que se passe-t-il dans le four ? Les metamorphoses de la cuisson</title>
+    <link href="https://ceramique.uk/science/que-se-passe-t-il-dans-le-four-les-metamorphoses-de-la-cuisson/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/science/que-se-passe-t-il-dans-le-four-les-metamorphoses-de-la-cuisson/</id>
+    <published>2020-02-17</published>
+    <updated>2020-02-17</updated>
+    <summary>De 100°C a 1300°C, l'argile traverse une serie de metamorphoses chimiques spectaculaires dans le four du ceramiste. Deshydroxylation, vitrification, oxydation ou reduction : decouvre ce qui se passe vraiment derriere la porte du four.</summary>
+  </entry>
+  <entry>
+    <title>D'ou vient l'argile ? Geologie d'un materiau miraculeux</title>
+    <link href="https://ceramique.uk/science/d-ou-vient-l-argile-geologie-d-un-materiau-miraculeux/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/science/d-ou-vient-l-argile-geologie-d-un-materiau-miraculeux/</id>
+    <published>2020-02-10</published>
+    <updated>2020-02-10</updated>
+    <summary>L'argile que les potiers faconnent chaque jour est le fruit de millions d'annees d'erosion geologique. De la kaolinite de Limoges a celle de Jingdezhen, decouvre comment les roches deviennent cette matiere miraculeuse qui fait la ceramique.</summary>
+  </entry>
   <entry>
     <title>Noel 2019 : notre selection de 12 cadeaux ceramique pour tous les budgets</title>
     <link href="https://ceramique.uk/saisons/noel-2019-selection-cadeaux-ceramique-budgets/" rel="alternate" type="text/html"/>
@@ -152,21 +168,5 @@
     <published>2019-05-21</published>
     <updated>2019-05-21</updated>
     <summary>Le 28 mai, Journee mondiale du ceramiste, cinq artisans aux parcours singuliers racontent comment et pourquoi ils ont choisi de travailler la terre : vocation precoce, reconversion tardive, heritage familial ou rencontre decisive.</summary>
-  </entry>
-  <entry>
-    <title>Fete des meres 2019 : 8 cadeaux en ceramique qui feront craquer toutes les mamans</title>
-    <link href="https://ceramique.uk/saisons/fete-des-meres-2019-cadeaux-ceramique/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisons/fete-des-meres-2019-cadeaux-ceramique/</id>
-    <published>2019-05-19</published>
-    <updated>2019-05-19</updated>
-    <summary>Le 26 mai, c'est la fete des meres. Oubliez le parfum sous cellophane : voici 8 cadeaux en ceramique artisanale.</summary>
-  </entry>
-  <entry>
-    <title>La Route de la Soie en bleu et blanc : comment la porcelaine chinoise a conquis le monde</title>
-    <link href="https://ceramique.uk/histoire/route-de-la-soie-bleu-et-blanc-porcelaine-chinoise/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/histoire/route-de-la-soie-bleu-et-blanc-porcelaine-chinoise/</id>
-    <published>2019-04-07</published>
-    <updated>2019-04-07</updated>
-    <summary>Du IXe siecle a la Renaissance, la porcelaine bleu et blanc a voyage de la Chine a Bassora, d'Istanbul a Delft, tissant l'un des plus grands dialogues creatifs entre civilisations. Retour sur une aventure commerciale et artistique hors norme, portee par la Route de la Soie.</summary>
   </entry>
 </feed>
