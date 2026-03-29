@@ -52,10 +52,8 @@ header {
 .header-inner {
     max-width: var(--max-w);
     margin: 0 auto;
-    padding: 0.9rem 1.5rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    padding: 0.9rem 1.5rem 0.3rem;
+    text-align: center;
 }
 
 .logo {
@@ -64,19 +62,29 @@ header {
     font-weight: 700;
     color: var(--c-text);
     letter-spacing: -0.02em;
+    display: block;
+    margin-bottom: 0.4rem;
 }
 .logo:hover { color: var(--c-accent); }
+
+nav {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    padding: 0 1.5rem 0.6rem;
+}
 
 nav ul {
     list-style: none;
     display: flex;
-    gap: 1.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.3rem 1.2rem;
     align-items: center;
 }
 
 nav ul a {
     color: var(--c-text-muted);
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     font-weight: 500;
     transition: color var(--transition);
 }
