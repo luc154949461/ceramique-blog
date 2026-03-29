@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/saisonnier/jema-2021-les-ateliers-ceramique-ouvrent-leurs-portes/</loc>
+    <lastmod>2021-03-30</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/boutiques/province-les-ateliers-boutiques-qui-valent-le-detour/</loc>
+    <lastmod>2021-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/saint-valentin-2021-dix-ceramiques-a-offrir-pour-dire-je-t-aime-autrement/</loc>
+    <lastmod>2021-02-07</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/portraits/maria-martinez-la-potiere-pueblo-qui-a-reconquis-un-savoir-perdu/</loc>
+    <lastmod>2021-02-01</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/histoire/staffordshire-comment-une-vallee-anglaise-a-industrialise-la-poterie/</loc>
+    <lastmod>2021-01-25</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/createurs/akiko-hirai-les-moon-jars-qui-ont-conquis-londres/</loc>
+    <lastmod>2021-01-18</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/boutiques/paris-ceramique-les-dix-galeries-et-boutiques-qui-comptent/</loc>
     <lastmod>2021-01-11</lastmod>
   </url>
@@ -190,11 +214,11 @@
   </url>
   <url>
     <loc>https://ceramique.uk/boutiques/</loc>
-    <lastmod>2021-01-11</lastmod>
+    <lastmod>2021-02-15</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/createurs/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2021-01-18</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/evenements/</loc>
@@ -202,19 +226,19 @@
   </url>
   <url>
     <loc>https://ceramique.uk/histoire/</loc>
-    <lastmod>2020-12-21</lastmod>
+    <lastmod>2021-01-25</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/portraits/</loc>
-    <lastmod>2020-12-07</lastmod>
+    <lastmod>2021-02-01</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/produits/</loc>
-    <lastmod>2026-03-29T00:50:45.165254+00:00</lastmod>
+    <lastmod>2026-03-29T07:34:47.853998+00:00</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisonnier/</loc>
-    <lastmod>2021-01-05</lastmod>
+    <lastmod>2021-03-30</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisons/</loc>
@@ -222,7 +246,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/science-ceramique/</loc>
-    <lastmod>2026-03-29T00:50:45.165254+00:00</lastmod>
+    <lastmod>2026-03-29T07:34:47.853998+00:00</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/science/</loc>
@@ -234,6 +258,6 @@
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2021-01-11</lastmod>
+    <lastmod>2021-03-30</lastmod>
   </url>
 </urlset>

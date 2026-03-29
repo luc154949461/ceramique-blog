@@ -4,11 +4,59 @@
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
-  <updated>2021-01-11</updated>
+  <updated>2021-03-30</updated>
   <author>
     <name>Céramique : L'Esprit de la Terre</name>
   </author>
   <subtitle>La ceramique sous toutes ses formes : histoire, science, createurs, boutiques et savoir-faire</subtitle>
+  <entry>
+    <title>JEMA 2021 : les ateliers ceramique ouvrent leurs portes</title>
+    <link href="https://ceramique.uk/saisonnier/jema-2021-les-ateliers-ceramique-ouvrent-leurs-portes/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/jema-2021-les-ateliers-ceramique-ouvrent-leurs-portes/</id>
+    <published>2021-03-30</published>
+    <updated>2021-03-30</updated>
+    <summary>Les Journees Europeennes des Metiers d'Art 2021 sont l'occasion ideale de decouvrir les ateliers ceramique de France. De Vallauris a Limoges, de Desvres a l'Alsace, guide pratique pour visiter les hauts lieux de la terre cuite.</summary>
+  </entry>
+  <entry>
+    <title>Province : les ateliers-boutiques qui valent le detour</title>
+    <link href="https://ceramique.uk/boutiques/province-les-ateliers-boutiques-qui-valent-le-detour/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/boutiques/province-les-ateliers-boutiques-qui-valent-le-detour/</id>
+    <published>2021-02-15</published>
+    <updated>2021-02-15</updated>
+    <summary>De Vallauris a l'Alsace, de Limoges a la Provence, la France abrite des dizaines d'ateliers-boutiques ou la ceramique artisanale se vit, se touche et se rapporte chez soi. Guide des detours qui valent le voyage.</summary>
+  </entry>
+  <entry>
+    <title>Saint-Valentin 2021 : dix ceramiques a offrir pour dire je t'aime autrement</title>
+    <link href="https://ceramique.uk/saisonnier/saint-valentin-2021-dix-ceramiques-a-offrir-pour-dire-je-t-aime-autrement/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/saint-valentin-2021-dix-ceramiques-a-offrir-pour-dire-je-t-aime-autrement/</id>
+    <published>2021-02-07</published>
+    <updated>2021-02-07</updated>
+    <summary>Oublie les roses et les chocolats : pour la Saint-Valentin 2021, offre de la ceramique artisanale. Mugs duo, bols a the japonais, bijoux en porcelaine, vases soliflores — dix idees selectionnees chez de vrais artisans pour dire je t'aime autrement.</summary>
+  </entry>
+  <entry>
+    <title>Maria Martinez : la potiere pueblo qui a reconquis un savoir perdu</title>
+    <link href="https://ceramique.uk/portraits/maria-martinez-la-potiere-pueblo-qui-a-reconquis-un-savoir-perdu/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/portraits/maria-martinez-la-potiere-pueblo-qui-a-reconquis-un-savoir-perdu/</id>
+    <published>2021-02-01</published>
+    <updated>2021-02-01</updated>
+    <summary>Maria Martinez (1887-1980), potiere de San Ildefonso Pueblo au Nouveau-Mexique, a redecouvert avec son mari Julian la technique ancestrale de la poterie noir sur noir. Sans tour, sans four, sans email — un chef-d'oeuvre de simplicite radicale.</summary>
+  </entry>
+  <entry>
+    <title>Staffordshire : comment une vallee anglaise a industrialise la poterie</title>
+    <link href="https://ceramique.uk/histoire/staffordshire-comment-une-vallee-anglaise-a-industrialise-la-poterie/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/histoire/staffordshire-comment-une-vallee-anglaise-a-industrialise-la-poterie/</id>
+    <published>2021-01-25</published>
+    <updated>2021-01-25</updated>
+    <summary>Au XVIIIe siecle, six bourgades du Staffordshire sont devenues le coeur ceramique du monde. Wedgwood, Spode, Minton, Royal Doulton : comment le genie scientifique, un canal et des veines d'argile ont industrialise la poterie.</summary>
+  </entry>
+  <entry>
+    <title>Akiko Hirai : les Moon Jars qui ont conquis Londres</title>
+    <link href="https://ceramique.uk/createurs/akiko-hirai-les-moon-jars-qui-ont-conquis-londres/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/createurs/akiko-hirai-les-moon-jars-qui-ont-conquis-londres/</id>
+    <published>2021-01-18</published>
+    <updated>2021-01-18</updated>
+    <summary>Nee au Japon, formee a Londres, Akiko Hirai reinvente la Moon Jar coreenne avec une puissance qui a conquis le V&amp;A Museum, le Loewe Craft Prize et les collectionneurs du monde entier. Portrait d'une ceramiste qui transforme l'imperfection en art.</summary>
+  </entry>
   <entry>
     <title>Paris ceramique : les dix galeries et boutiques qui comptent</title>
     <link href="https://ceramique.uk/boutiques/paris-ceramique-les-dix-galeries-et-boutiques-qui-comptent/" rel="alternate" type="text/html"/>
@@ -120,53 +168,5 @@
     <published>2020-03-09</published>
     <updated>2020-03-09</updated>
     <summary>La porcelaine est le plus noble des materiaux ceramiques : translucide, dure, eclatante de blancheur. Mais derriere cette perfection se cache une chimie fascinante — la trinite du kaolin, du feldspath et du quartz, transformee a 1400°C en un composite d'aiguilles de mullite et de verre. De la percee de Meissen en 1708 aux ceramiques techniques modernes, decouvre la science de l'or blanc.</summary>
-  </entry>
-  <entry>
-    <title>D'ou viennent les couleurs ? Oxydes metalliques et secrets de palette</title>
-    <link href="https://ceramique.uk/science/d-ou-viennent-les-couleurs-oxydes-metalliques-et-secrets-de-palette/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/science/d-ou-viennent-les-couleurs-oxydes-metalliques-et-secrets-de-palette/</id>
-    <published>2020-03-02</published>
-    <updated>2020-03-02</updated>
-    <summary>Fer, cuivre, cobalt, manganese, chrome : une poignee d'oxydes metalliques suffit a creer toute la palette de la ceramique. Decouvre comment ces elements chimiques produisent leurs couleurs — et pourquoi l'atmosphere du four peut tout changer.</summary>
-  </entry>
-  <entry>
-    <title>La chimie des emaux : pourquoi le verre colle a la terre</title>
-    <link href="https://ceramique.uk/science/la-chimie-des-emaux-pourquoi-le-verre-colle-a-la-terre/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/science/la-chimie-des-emaux-pourquoi-le-verre-colle-a-la-terre/</id>
-    <published>2020-02-24</published>
-    <updated>2020-02-24</updated>
-    <summary>Silice, alumine, fondants : derriere chaque email ceramique se cache un equilibre chimique precis. De la formule de Seger aux defauts redoutes — tressaillage, retrait, piquage — decouvre la science qui transforme de la poudre en surface vitreuse.</summary>
-  </entry>
-  <entry>
-    <title>Que se passe-t-il dans le four ? Les metamorphoses de la cuisson</title>
-    <link href="https://ceramique.uk/science/que-se-passe-t-il-dans-le-four-les-metamorphoses-de-la-cuisson/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/science/que-se-passe-t-il-dans-le-four-les-metamorphoses-de-la-cuisson/</id>
-    <published>2020-02-17</published>
-    <updated>2020-02-17</updated>
-    <summary>De 100°C a 1300°C, l'argile traverse une serie de metamorphoses chimiques spectaculaires dans le four du ceramiste. Deshydroxylation, vitrification, oxydation ou reduction : decouvre ce qui se passe vraiment derriere la porte du four.</summary>
-  </entry>
-  <entry>
-    <title>Saint-Valentin : les ceramiques du coeur, de l'Antiquite aux createurs d'aujourd'hui</title>
-    <link href="https://ceramique.uk/saisonnier/saint-valentin-les-ceramiques-du-coeur-de-l-antiquite-aux-createurs-d-aujourd-hui/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisonnier/saint-valentin-les-ceramiques-du-coeur-de-l-antiquite-aux-createurs-d-aujourd-hui/</id>
-    <published>2020-02-14</published>
-    <updated>2020-02-14</updated>
-    <summary>Des ex-voto en terre cuite de l'Antiquite romaine aux tabatieres en porcelaine de Meissen, des fairings victoriennes aux creations artisanales d'aujourd'hui : le coeur en ceramique traverse les siecles comme un symbole universel du don de soi.</summary>
-  </entry>
-  <entry>
-    <title>D'ou vient l'argile ? Geologie d'un materiau miraculeux</title>
-    <link href="https://ceramique.uk/science/d-ou-vient-l-argile-geologie-d-un-materiau-miraculeux/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/science/d-ou-vient-l-argile-geologie-d-un-materiau-miraculeux/</id>
-    <published>2020-02-10</published>
-    <updated>2020-02-10</updated>
-    <summary>L'argile que les potiers faconnent chaque jour est le fruit de millions d'annees d'erosion geologique. De la kaolinite de Limoges a celle de Jingdezhen, decouvre comment les roches deviennent cette matiere miraculeuse qui fait la ceramique.</summary>
-  </entry>
-  <entry>
-    <title>Tendances ceramique 2020 : l'essor des formes organiques et des emaux textures</title>
-    <link href="https://ceramique.uk/saisonnier/tendances-ceramique-2020-l-essor-des-formes-organiques-et-des-emaux-textures/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisonnier/tendances-ceramique-2020-l-essor-des-formes-organiques-et-des-emaux-textures/</id>
-    <published>2020-01-06</published>
-    <updated>2020-01-06</updated>
-    <summary>Formes biomorphiques, emaux textures, esthetique neo-wabi-sabi, tons de terre et imperatif ecologique : les grandes tendances de la ceramique en 2020 dessinent un retour au vivant et a l'authentique, de Maison &amp; Objet a Collect.</summary>
   </entry>
 </feed>
