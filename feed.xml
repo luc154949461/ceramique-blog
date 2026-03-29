@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Ceramique Blog</title>
+  <title>Céramique : L'Esprit de la Terre</title>
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
   <updated>2021-01-11</updated>
   <author>
-    <name>Ceramique Blog</name>
+    <name>Céramique : L'Esprit de la Terre</name>
   </author>
-  <subtitle>Blog sur la ceramique, les techniques et les materiaux</subtitle>
+  <subtitle>La ceramique sous toutes ses formes : histoire, science, createurs, boutiques et savoir-faire</subtitle>
   <entry>
     <title>Paris ceramique : les dix galeries et boutiques qui comptent</title>
     <link href="https://ceramique.uk/boutiques/paris-ceramique-les-dix-galeries-et-boutiques-qui-comptent/" rel="alternate" type="text/html"/>
