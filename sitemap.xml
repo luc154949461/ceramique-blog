@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/saisonnier/ete-2021-cuissons-a-ciel-ouvert-et-stages-ceramique-en-pleine-nature/</loc>
+    <lastmod>2021-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/fete-des-meres-2021-la-ceramique-le-cadeau-qui-traverse-le-temps/</loc>
+    <lastmod>2021-05-30</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/journee-du-ceramiste-2021-pourquoi-ce-metier-fascine-plus-que-jamais/</loc>
+    <lastmod>2021-05-21</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/createurs/edmund-de-waal-la-porcelaine-comme-langage-de-la-memoire/</loc>
+    <lastmod>2021-04-12</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/saisonnier/jema-2021-les-ateliers-ceramique-ouvrent-leurs-portes/</loc>
     <lastmod>2021-03-30</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/produits/le-jasperware-de-wedgwood-quand-la-ceramique-a-invente-le-marketing/</loc>
+    <lastmod>2021-03-01</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/histoire/meissen-et-la-folie-de-la-porcelaine-europeenne/</loc>
+    <lastmod>2021-02-22</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/boutiques/province-les-ateliers-boutiques-qui-valent-le-detour/</loc>
@@ -218,7 +242,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/createurs/</loc>
-    <lastmod>2021-01-18</lastmod>
+    <lastmod>2021-04-12</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/evenements/</loc>
@@ -226,7 +250,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/histoire/</loc>
-    <lastmod>2021-01-25</lastmod>
+    <lastmod>2021-02-22</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/portraits/</loc>
@@ -234,11 +258,11 @@
   </url>
   <url>
     <loc>https://ceramique.uk/produits/</loc>
-    <lastmod>2026-03-29T14:31:15.519847+00:00</lastmod>
+    <lastmod>2021-03-01</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisonnier/</loc>
-    <lastmod>2021-03-30</lastmod>
+    <lastmod>2021-07-01</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/science/</loc>
@@ -246,6 +270,6 @@
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2021-03-30</lastmod>
+    <lastmod>2021-07-01</lastmod>
   </url>
 </urlset>

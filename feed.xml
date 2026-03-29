@@ -4,11 +4,43 @@
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
-  <updated>2021-03-30</updated>
+  <updated>2021-07-01</updated>
   <author>
     <name>Céramique : L'Esprit de la Terre</name>
   </author>
   <subtitle>La ceramique sous toutes ses formes : histoire, science, createurs, boutiques et savoir-faire</subtitle>
+  <entry>
+    <title>Ete 2021 : cuissons a ciel ouvert et stages ceramique en pleine nature</title>
+    <link href="https://ceramique.uk/saisonnier/ete-2021-cuissons-a-ciel-ouvert-et-stages-ceramique-en-pleine-nature/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/ete-2021-cuissons-a-ciel-ouvert-et-stages-ceramique-en-pleine-nature/</id>
+    <published>2021-07-01</published>
+    <updated>2021-07-01</updated>
+    <summary>En ete 2021, les cuissons a ciel ouvert reprennent de plus belle : pit firing, raku, enfumage en gazette. Terra sigillata, chimie des oxydes et feu communautaire — guide technique et pratique pour un ete de ceramique en pleine nature.</summary>
+  </entry>
+  <entry>
+    <title>Fete des meres 2021 : la ceramique, le cadeau qui traverse le temps</title>
+    <link href="https://ceramique.uk/saisonnier/fete-des-meres-2021-la-ceramique-le-cadeau-qui-traverse-le-temps/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/fete-des-meres-2021-la-ceramique-le-cadeau-qui-traverse-le-temps/</id>
+    <published>2021-05-30</published>
+    <updated>2021-05-30</updated>
+    <summary>Pour la fete des meres 2021, la ceramique artisanale s'impose comme le cadeau ideal : un objet fait main qui traverse le temps, qui porte la trace d'un artisan et qui accompagne les rituels du quotidien. Guide de cadeaux, adresses d'ateliers et eloge de la valeur emotionnelle du fait-main.</summary>
+  </entry>
+  <entry>
+    <title>Journee du ceramiste 2021 : pourquoi ce metier fascine plus que jamais</title>
+    <link href="https://ceramique.uk/saisonnier/journee-du-ceramiste-2021-pourquoi-ce-metier-fascine-plus-que-jamais/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/journee-du-ceramiste-2021-pourquoi-ce-metier-fascine-plus-que-jamais/</id>
+    <published>2021-05-21</published>
+    <updated>2021-05-21</updated>
+    <summary>En 2021, la ceramique vit un boom sans precedent : reconversions professionnelles, ateliers complets, stages decouverte envahis. Post-Covid, des milliers de personnes quittent leur clavier pour mettre les mains dans l'argile. Pourquoi ce metier millenaire fascine-t-il autant aujourd'hui ?</summary>
+  </entry>
+  <entry>
+    <title>Edmund de Waal : la porcelaine comme langage de la memoire</title>
+    <link href="https://ceramique.uk/createurs/edmund-de-waal-la-porcelaine-comme-langage-de-la-memoire/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/createurs/edmund-de-waal-la-porcelaine-comme-langage-de-la-memoire/</id>
+    <published>2021-04-12</published>
+    <updated>2021-04-12</updated>
+    <summary>Edmund de Waal est un cas unique : ceramiste et ecrivain, il a touche des millions de lecteurs avec La Memoire retrouvee tout en creant des installations de porcelaine dans les plus grands musees du monde. Portrait d'un artiste qui prouve que la ceramique peut porter les recits les plus profonds.</summary>
+  </entry>
   <entry>
     <title>JEMA 2021 : les ateliers ceramique ouvrent leurs portes</title>
     <link href="https://ceramique.uk/saisonnier/jema-2021-les-ateliers-ceramique-ouvrent-leurs-portes/" rel="alternate" type="text/html"/>
@@ -16,6 +48,22 @@
     <published>2021-03-30</published>
     <updated>2021-03-30</updated>
     <summary>Les Journees Europeennes des Metiers d'Art 2021 sont l'occasion ideale de decouvrir les ateliers ceramique de France. De Vallauris a Limoges, de Desvres a l'Alsace, guide pratique pour visiter les hauts lieux de la terre cuite.</summary>
+  </entry>
+  <entry>
+    <title>Le Jasperware de Wedgwood : quand la ceramique a invente le marketing</title>
+    <link href="https://ceramique.uk/produits/le-jasperware-de-wedgwood-quand-la-ceramique-a-invente-le-marketing/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/produits/le-jasperware-de-wedgwood-quand-la-ceramique-a-invente-le-marketing/</id>
+    <published>2021-03-01</published>
+    <updated>2021-03-01</updated>
+    <summary>En 1774, Josiah Wedgwood invente le jasperware — un gres unique teinte au sulfate de baryum, orne de reliefs neoclassiques. Du Portland Vase au marketing de la rarete, histoire d'un materiau qui a invente le luxe moderne et qui est toujours produit 250 ans plus tard.</summary>
+  </entry>
+  <entry>
+    <title>Meissen et la folie de la porcelaine europeenne</title>
+    <link href="https://ceramique.uk/histoire/meissen-et-la-folie-de-la-porcelaine-europeenne/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/histoire/meissen-et-la-folie-de-la-porcelaine-europeenne/</id>
+    <published>2021-02-22</published>
+    <updated>2021-02-22</updated>
+    <summary>En 1708, Bottger perce le secret de la porcelaine europeenne a Meissen, declenchant une fievre d'espionnage industriel a travers l'Europe. De Sevres a Limoges, de Capodimonte a Staffordshire, comment un materiau fait de terre et de feu est devenu une arme diplomatique et un symbole de pouvoir.</summary>
   </entry>
   <entry>
     <title>Province : les ateliers-boutiques qui valent le detour</title>
@@ -120,53 +168,5 @@
     <published>2020-07-01</published>
     <updated>2020-07-01</updated>
     <summary>De la cuisson en fosse, vieille de 30 000 ans, au raku spectaculaire en passant par le baril et le saggar : les techniques de cuisson en plein air offrent des resultats qu'aucun four ferme ne peut reproduire. Guide complet pour un ete ceramique sous le signe du feu.</summary>
-  </entry>
-  <entry>
-    <title>Fete des meres : offrir de la ceramique, un geste qui a du sens</title>
-    <link href="https://ceramique.uk/saisonnier/fete-des-meres-offrir-de-la-ceramique-un-geste-qui-a-du-sens/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisonnier/fete-des-meres-offrir-de-la-ceramique-un-geste-qui-a-du-sens/</id>
-    <published>2020-05-31</published>
-    <updated>2020-05-31</updated>
-    <summary>Pour la fete des Meres, offrir de la ceramique artisanale, c'est offrir du temps cristallise. Guide des cadeaux — mugs, vases, coupelles, cache-pots — et reflexion sur le sens profond des objets faits main qui vieillissent avec nous.</summary>
-  </entry>
-  <entry>
-    <title>JEMA 2020 : guide du curieux pour les Journees Europeennes des Metiers d'Art</title>
-    <link href="https://ceramique.uk/saisonnier/jema-2020-guide-du-curieux-pour-les-journees-europeennes-des-metiers-d-art/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisonnier/jema-2020-guide-du-curieux-pour-les-journees-europeennes-des-metiers-d-art/</id>
-    <published>2020-04-03</published>
-    <updated>2020-04-03</updated>
-    <summary>Les Journees Europeennes des Metiers d'Art ouvrent chaque printemps les portes de milliers d'ateliers. De Vallauris a l'Alsace en passant par Limoges et Desvres, guide pratique pour decouvrir les ceramistes et comprendre pourquoi regarder un potier tourner change ta facon de voir le monde.</summary>
-  </entry>
-  <entry>
-    <title>Ceramiques du futur : quand la high-tech rencontre l'atelier</title>
-    <link href="https://ceramique.uk/science/ceramiques-du-futur-quand-la-high-tech-rencontre-l-atelier/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/science/ceramiques-du-futur-quand-la-high-tech-rencontre-l-atelier/</id>
-    <published>2020-03-23</published>
-    <updated>2020-03-23</updated>
-    <summary>De l'imprimante 3D d'Olivier van Herpt aux protheses de hanche en zircone, du blindage en carbure de bore aux tuiles de la navette spatiale : la ceramique, materiau millenaire, est au coeur des technologies les plus avancees du XXIe siecle.</summary>
-  </entry>
-  <entry>
-    <title>Raku, enfumage, cristallisation : quand le hasard devient science</title>
-    <link href="https://ceramique.uk/science/raku-enfumage-cristallisation-quand-le-hasard-devient-science/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/science/raku-enfumage-cristallisation-quand-le-hasard-devient-science/</id>
-    <published>2020-03-16</published>
-    <updated>2020-03-16</updated>
-    <summary>Raku, enfumage, emaux cristallins : trois techniques ceramiques ou la science flirte avec le chaos. Choc thermique et carbone piege dans les craquelures, sels volatils dansant dans la fumee, cristaux de zinc poussant au ralenti dans le verre fondu — decouvre pourquoi ces cuissons produisent des resultats irreproductibles, et pourquoi c'est exactement le but.</summary>
-  </entry>
-  <entry>
-    <title>Journee internationale du ceramiste : eloge de la main qui tourne</title>
-    <link href="https://ceramique.uk/saisonnier/journee-internationale-du-ceramiste-eloge-de-la-main-qui-tourne/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisonnier/journee-internationale-du-ceramiste-eloge-de-la-main-qui-tourne/</id>
-    <published>2020-03-12</published>
-    <updated>2020-03-12</updated>
-    <summary>A l'occasion de la Journee internationale de la ceramique, retour sur ce que signifie etre ceramiste aujourd'hui : des potiers anonymes de l'Antiquite aux artistes contemporains, en passant par ce que les neurosciences nous apprennent sur le lien entre la main, l'argile et le cerveau.</summary>
-  </entry>
-  <entry>
-    <title>Porcelaine : la science d'une perfection translucide</title>
-    <link href="https://ceramique.uk/science/porcelaine-la-science-d-une-perfection-translucide/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/science/porcelaine-la-science-d-une-perfection-translucide/</id>
-    <published>2020-03-09</published>
-    <updated>2020-03-09</updated>
-    <summary>La porcelaine est le plus noble des materiaux ceramiques : translucide, dure, eclatante de blancheur. Mais derriere cette perfection se cache une chimie fascinante — la trinite du kaolin, du feldspath et du quartz, transformee a 1400°C en un composite d'aiguilles de mullite et de verre. De la percee de Meissen en 1708 aux ceramiques techniques modernes, decouvre la science de l'or blanc.</summary>
   </entry>
 </feed>
