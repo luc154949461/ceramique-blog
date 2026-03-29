@@ -4,11 +4,59 @@
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
-  <updated>2020-09-19</updated>
+  <updated>2021-01-11</updated>
   <author>
     <name>Ceramique Blog</name>
   </author>
   <subtitle>Blog sur la ceramique, les techniques et les materiaux</subtitle>
+  <entry>
+    <title>Paris ceramique : les dix galeries et boutiques qui comptent</title>
+    <link href="https://ceramique.uk/boutiques/paris-ceramique-les-dix-galeries-et-boutiques-qui-comptent/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/boutiques/paris-ceramique-les-dix-galeries-et-boutiques-qui-comptent/</id>
+    <published>2021-01-11</published>
+    <updated>2021-01-11</updated>
+    <summary>De la galerie Empreintes au marche aux Puces de Saint-Ouen, dix adresses incontournables pour decouvrir et acheter de la ceramique d'auteur a Paris. Guide pratique par quartier avec prix, specialites et conseils de visite.</summary>
+  </entry>
+  <entry>
+    <title>Tendances ceramique 2021 : le retour du gres et l'explosion du fait-main</title>
+    <link href="https://ceramique.uk/saisonnier/tendances-ceramique-2021-le-retour-du-gres-et-l-explosion-du-fait-main/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/tendances-ceramique-2021-le-retour-du-gres-et-l-explosion-du-fait-main/</id>
+    <published>2021-01-05</published>
+    <updated>2021-01-05</updated>
+    <summary>En ce debut 2021, la ceramique artisanale vit une revolution : retour du gres brut, esthetique wabi-sabi, formes asymetriques, explosion des micro-ateliers post-Covid et renouveau de la cuisson au bois. Analyse d'un mouvement de fond qui dit beaucoup de notre epoque.</summary>
+  </entry>
+  <entry>
+    <title>La ceramique islamique : l'invention du lustre metallique et l'eclat de l'Orient</title>
+    <link href="https://ceramique.uk/histoire/la-ceramique-islamique-l-invention-du-lustre-metallique-et-l-eclat-de-l-orient/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/histoire/la-ceramique-islamique-l-invention-du-lustre-metallique-et-l-eclat-de-l-orient/</id>
+    <published>2020-12-21</published>
+    <updated>2020-12-21</updated>
+    <summary>Au IXe siecle, les potiers de Mesopotamie inventent le lustre metallique — une technique de nanoparticules avant l'heure. De l'Irak abbasside aux carreaux d'Iznik, des azulejos aux maiolicas, voyage au coeur de neuf siecles d'innovation ceramique islamique.</summary>
+  </entry>
+  <entry>
+    <title>Claire Lindner : quand la ceramique devient organique et vivante</title>
+    <link href="https://ceramique.uk/createurs/claire-lindner-quand-la-ceramique-devient-organique-et-vivante/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/createurs/claire-lindner-quand-la-ceramique-devient-organique-et-vivante/</id>
+    <published>2020-12-14</published>
+    <updated>2020-12-14</updated>
+    <summary>Nee a Perpignan, formee a Strasbourg et Londres, Claire Lindner cree des sculptures biomorphiques en gres emaille qui semblent respirer et pousser. Portrait d'une artiste qui brouille la frontiere entre ceramique et sculpture contemporaine.</summary>
+  </entry>
+  <entry>
+    <title>Josiah Wedgwood : le potier qui a invente le marketing moderne</title>
+    <link href="https://ceramique.uk/portraits/josiah-wedgwood-le-potier-qui-a-invente-le-marketing-moderne/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/portraits/josiah-wedgwood-le-potier-qui-a-invente-le-marketing-moderne/</id>
+    <published>2020-12-07</published>
+    <updated>2020-12-07</updated>
+    <summary>De potier handicape par la variole a inventeur du marketing moderne : l'histoire extraordinaire de Josiah Wedgwood (1730-1795), createur de la Queen's Ware et du jasperware, pionnier du catalogue illustre et de la garantie satisfait ou rembourse, ami des savants des Lumieres et grand-pere de Charles Darwin.</summary>
+  </entry>
+  <entry>
+    <title>Noel ceramique : l'art de la table des fetes, entre heritage et creation</title>
+    <link href="https://ceramique.uk/saisonnier/noel-ceramique-l-art-de-la-table-des-fetes-entre-heritage-et-creation/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/noel-ceramique-l-art-de-la-table-des-fetes-entre-heritage-et-creation/</id>
+    <published>2020-11-25</published>
+    <updated>2020-11-25</updated>
+    <summary>De la faience de grand-mere aux creations des jeunes ceramistes, Noel est le moment ideal pour dresser une table qui raconte une histoire. Guide de cadeaux, artisans a decouvrir et art du melange des generations : tout ce qu'il faut pour un Noel ceramique.</summary>
+  </entry>
   <entry>
     <title>Journees du patrimoine 2020 : la ceramique dans les lieux que vous ne soupconnez pas</title>
     <link href="https://ceramique.uk/saisonnier/journees-du-patrimoine-2020-la-ceramique-dans-les-lieux-que-vous-ne-soupconnez-pas/" rel="alternate" type="text/html"/>
@@ -120,53 +168,5 @@
     <published>2020-01-06</published>
     <updated>2020-01-06</updated>
     <summary>Formes biomorphiques, emaux textures, esthetique neo-wabi-sabi, tons de terre et imperatif ecologique : les grandes tendances de la ceramique en 2020 dessinent un retour au vivant et a l'authentique, de Maison &amp; Objet a Collect.</summary>
-  </entry>
-  <entry>
-    <title>Noel 2019 : notre selection de 12 cadeaux ceramique pour tous les budgets</title>
-    <link href="https://ceramique.uk/saisons/noel-2019-selection-cadeaux-ceramique-budgets/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisons/noel-2019-selection-cadeaux-ceramique-budgets/</id>
-    <published>2019-11-25</published>
-    <updated>2019-11-25</updated>
-    <summary>De la tasse artisanale a moins de 30 euros a la piece de collection signee, notre selection de 12 cadeaux ceramique pour Noel 2019 couvre tous les budgets. Avec en prime, les meilleurs marches de potiers ou chiner.</summary>
-  </entry>
-  <entry>
-    <title>Journees du Patrimoine 2019 : 5 manufactures de ceramique a visiter</title>
-    <link href="https://ceramique.uk/evenements/journees-patrimoine-2019-manufactures-ceramique/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/evenements/journees-patrimoine-2019-manufactures-ceramique/</id>
-    <published>2019-09-14</published>
-    <updated>2019-09-14</updated>
-    <summary>A l'occasion des Journees europeennes du patrimoine 2019, decouvrez cinq manufactures de ceramique francaises d'exception — Sevres, Gien, Quimper, Moustiers et Vallauris — qui ouvrent leurs portes pour devoiler des savoir-faire seculaires et des techniques ancestrales.</summary>
-  </entry>
-  <entry>
-    <title>Magdalene Odundo : quand le corps feminin devient ceramique (2/2)</title>
-    <link href="https://ceramique.uk/portraits/magdalene-odundo-corps-feminin-ceramique-2sur2/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/portraits/magdalene-odundo-corps-feminin-ceramique-2sur2/</id>
-    <published>2019-06-21</published>
-    <updated>2019-06-21</updated>
-    <summary>Ventres de grossesse, coiffures Mangbetu, echos de Kerma et des Cyclades : les vases de Magdalene Odundo sont des corps feminins en argile. Dame de l'Empire britannique, chanceliere d'universite, record a 723 900 livres chez Sotheby's — portrait d'une consecration hors norme.</summary>
-  </entry>
-  <entry>
-    <title>Magdalene Odundo : la terre entre deux mondes (1/2)</title>
-    <link href="https://ceramique.uk/portraits/magdalene-odundo-terre-entre-deux-mondes-1sur2/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/portraits/magdalene-odundo-terre-entre-deux-mondes-1sur2/</id>
-    <published>2019-06-20</published>
-    <updated>2019-06-20</updated>
-    <summary>Née au Kenya, formée en Inde, au Nigeria et en Angleterre, Magdalene Odundo a forgé une technique céramique unique — colombin, brunissage, cuisson sans glaçure — en puisant aux sources les plus anciennes de la poterie africaine. Retour sur un parcours transculturel exceptionnel.</summary>
-  </entry>
-  <entry>
-    <title>Lucie Rie : la revolution des emaux Dame de l Empire (3/3)</title>
-    <link href="https://ceramique.uk/portraits/lucie-rie-revolution-emaux-dame-empire-3sur3/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/portraits/lucie-rie-revolution-emaux-dame-empire-3sur3/</id>
-    <published>2019-06-19</published>
-    <updated>2019-06-19</updated>
-    <summary>Face a la tradition anglo-japonaise de Bernard Leach, Lucie Rie impose une ceramique moderniste, urbaine, continentale. Faite Dame de l'Empire en 1991, son atelier reconstitue au V&amp;A et ses records en salle des ventes confirment la consecration d'une refugiee devenue la plus grande ceramiste britannique du XXe siecle.</summary>
-  </entry>
-  <entry>
-    <title>Lucie Rie : des boutons de guerre aux sommets (2/3)</title>
-    <link href="https://ceramique.uk/portraits/lucie-rie-boutons-guerre-coper-2sur3/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/portraits/lucie-rie-boutons-guerre-coper-2sur3/</id>
-    <published>2019-06-18</published>
-    <updated>2019-06-18</updated>
-    <summary>Privee du droit de vendre ses poteries pendant la guerre, Lucie Rie transforme son atelier d'Albion Mews en fabrique de boutons en ceramique pour les grandes maisons de couture londoniennes — Molyneux, Worth, Stiebel. En 1946, un jeune refugie sans experience nomme Hans Coper frappe a sa porte : c'est le debut d'une collaboration de douze ans et d'une amitie qui ne s'eteindra qu'avec la mort de Coper en 1981.</summary>
   </entry>
 </feed>

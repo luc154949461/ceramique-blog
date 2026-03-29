@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/boutiques/paris-ceramique-les-dix-galeries-et-boutiques-qui-comptent/</loc>
+    <lastmod>2021-01-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/tendances-ceramique-2021-le-retour-du-gres-et-l-explosion-du-fait-main/</loc>
+    <lastmod>2021-01-05</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/histoire/la-ceramique-islamique-l-invention-du-lustre-metallique-et-l-eclat-de-l-orient/</loc>
+    <lastmod>2020-12-21</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/createurs/claire-lindner-quand-la-ceramique-devient-organique-et-vivante/</loc>
+    <lastmod>2020-12-14</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/portraits/josiah-wedgwood-le-potier-qui-a-invente-le-marketing-moderne/</loc>
+    <lastmod>2020-12-07</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/noel-ceramique-l-art-de-la-table-des-fetes-entre-heritage-et-creation/</loc>
+    <lastmod>2020-11-25</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/saisonnier/journees-du-patrimoine-2020-la-ceramique-dans-les-lieux-que-vous-ne-soupconnez-pas/</loc>
     <lastmod>2020-09-19</lastmod>
   </url>
@@ -165,20 +189,32 @@
     <lastmod>2019-04-04</lastmod>
   </url>
   <url>
+    <loc>https://ceramique.uk/boutiques/</loc>
+    <lastmod>2021-01-11</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/createurs/</loc>
+    <lastmod>2020-12-14</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/evenements/</loc>
     <lastmod>2019-09-14</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/histoire/</loc>
-    <lastmod>2019-06-04</lastmod>
+    <lastmod>2020-12-21</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/portraits/</loc>
-    <lastmod>2019-06-21</lastmod>
+    <lastmod>2020-12-07</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/produits/</loc>
+    <lastmod>2026-03-29T00:27:23.039093+00:00</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisonnier/</loc>
-    <lastmod>2020-09-19</lastmod>
+    <lastmod>2021-01-05</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisons/</loc>
@@ -186,7 +222,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/science-ceramique/</loc>
-    <lastmod>2026-03-28T22:02:33.470688+00:00</lastmod>
+    <lastmod>2026-03-29T00:27:23.039093+00:00</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/science/</loc>
@@ -198,6 +234,6 @@
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2020-09-19</lastmod>
+    <lastmod>2021-01-11</lastmod>
   </url>
 </urlset>
