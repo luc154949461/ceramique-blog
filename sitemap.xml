@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/saisonnier/noel-2021-la-table-des-fetes-en-ceramique-artisanale/</loc>
+    <lastmod>2021-11-25</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/saisonnier/journees-du-patrimoine-2021-la-ceramique-cachee-dans-nos-monuments/</loc>
     <lastmod>2021-09-18</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisonnier/ete-2021-cuissons-a-ciel-ouvert-et-stages-ceramique-en-pleine-nature/</loc>
     <lastmod>2021-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/createurs/nathalie-derouet-la-ceramiste-des-chefs-etoiles/</loc>
+    <lastmod>2021-06-14</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/produits/le-bol-raku-de-chojiro-l-objet-le-plus-simple-et-le-plus-profond-du-monde/</loc>
+    <lastmod>2021-06-07</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisonnier/fete-des-meres-2021-la-ceramique-le-cadeau-qui-traverse-le-temps/</loc>
@@ -17,8 +29,20 @@
     <lastmod>2021-05-21</lastmod>
   </url>
   <url>
+    <loc>https://ceramique.uk/createurs/bouke-de-vries-la-beaute-de-la-porcelaine-brisee/</loc>
+    <lastmod>2021-05-17</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/produits/le-vase-bleu-de-sevres-le-bleu-qui-a-rendu-les-rois-jaloux/</loc>
+    <lastmod>2021-05-10</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/createurs/takuro-kuwata-le-punk-de-la-ceramique-japonaise/</loc>
     <lastmod>2021-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/createurs/jennifer-lee-l-art-du-silence-en-ceramique/</loc>
+    <lastmod>2021-04-26</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/createurs/andile-dyalvane-la-terre-rouge-d-afrique-du-sud-dans-les-galeries-du-monde/</loc>
@@ -254,7 +278,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/createurs/</loc>
-    <lastmod>2021-05-03</lastmod>
+    <lastmod>2021-06-14</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/evenements/</loc>
@@ -270,11 +294,11 @@
   </url>
   <url>
     <loc>https://ceramique.uk/produits/</loc>
-    <lastmod>2021-03-01</lastmod>
+    <lastmod>2021-06-07</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisonnier/</loc>
-    <lastmod>2021-09-18</lastmod>
+    <lastmod>2021-11-25</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/science/</loc>
@@ -282,6 +306,6 @@
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2021-09-18</lastmod>
+    <lastmod>2021-11-25</lastmod>
   </url>
 </urlset>

@@ -4,11 +4,19 @@
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
-  <updated>2021-09-18</updated>
+  <updated>2021-11-25</updated>
   <author>
     <name>Céramique : L'Esprit de la Terre</name>
   </author>
   <subtitle>La ceramique sous toutes ses formes : histoire, science, createurs, boutiques et savoir-faire</subtitle>
+  <entry>
+    <title>Noel 2021 : la table des fetes en ceramique artisanale</title>
+    <link href="https://ceramique.uk/saisonnier/noel-2021-la-table-des-fetes-en-ceramique-artisanale/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/noel-2021-la-table-des-fetes-en-ceramique-artisanale/</id>
+    <published>2021-11-25</published>
+    <updated>2021-11-25</updated>
+    <summary>Dresser la table de Noel en ceramique artisanale, c'est transformer le repas en rituel. Guide pratique pour choisir ses pieces, mixer heritage et modernite, et offrir des cadeaux qui ont du sens.</summary>
+  </entry>
   <entry>
     <title>Journees du Patrimoine 2021 : la ceramique cachee dans nos monuments</title>
     <link href="https://ceramique.uk/saisonnier/journees-du-patrimoine-2021-la-ceramique-cachee-dans-nos-monuments/" rel="alternate" type="text/html"/>
@@ -24,6 +32,22 @@
     <published>2021-07-01</published>
     <updated>2021-07-01</updated>
     <summary>En ete 2021, les cuissons a ciel ouvert reprennent de plus belle : pit firing, raku, enfumage en gazette. Terra sigillata, chimie des oxydes et feu communautaire — guide technique et pratique pour un ete de ceramique en pleine nature.</summary>
+  </entry>
+  <entry>
+    <title>Nathalie Derouet : la ceramiste des chefs etoiles</title>
+    <link href="https://ceramique.uk/createurs/nathalie-derouet-la-ceramiste-des-chefs-etoiles/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/createurs/nathalie-derouet-la-ceramiste-des-chefs-etoiles/</id>
+    <published>2021-06-14</published>
+    <updated>2021-06-14</updated>
+    <summary>Depuis son atelier de Douarnenez face a l'Atlantique, Nathalie Derouet cree de la porcelaine artisanale pour les chefs etoiles Olivier Bellin et Jean-Francois Piege. Analyse d'une ceramiste qui concilie exigence technique et poesie marine.</summary>
+  </entry>
+  <entry>
+    <title>Le bol raku de Chojiro : l'objet le plus simple et le plus profond du monde</title>
+    <link href="https://ceramique.uk/produits/le-bol-raku-de-chojiro-l-objet-le-plus-simple-et-le-plus-profond-du-monde/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/produits/le-bol-raku-de-chojiro-l-objet-le-plus-simple-et-le-plus-profond-du-monde/</id>
+    <published>2021-06-07</published>
+    <updated>2021-06-07</updated>
+    <summary>Vers 1580, le potier Chojiro cree pour le maitre de the Sen no Rikyu un bol noir d'un depouillement total. Analyse technique et philosophique de l'objet le plus simple et le plus profond de l'histoire de la ceramique.</summary>
   </entry>
   <entry>
     <title>Fete des meres 2021 : la ceramique, le cadeau qui traverse le temps</title>
@@ -42,12 +66,36 @@
     <summary>En 2021, la ceramique vit un boom sans precedent : reconversions professionnelles, ateliers complets, stages decouverte envahis. Post-Covid, des milliers de personnes quittent leur clavier pour mettre les mains dans l'argile. Pourquoi ce metier millenaire fascine-t-il autant aujourd'hui ?</summary>
   </entry>
   <entry>
+    <title>Bouke de Vries : la beaute de la porcelaine brisee</title>
+    <link href="https://ceramique.uk/createurs/bouke-de-vries-la-beaute-de-la-porcelaine-brisee/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/createurs/bouke-de-vries-la-beaute-de-la-porcelaine-brisee/</id>
+    <published>2021-05-17</published>
+    <updated>2021-05-17</updated>
+    <summary>Ancien restaurateur du V&amp;A, le Neerlandais Bouke de Vries transforme la porcelaine brisee en oeuvres d'art. Memory Vessels, War and Pieces, portraits en Delft fracture : plongee dans un univers ou la cassure devient beaute.</summary>
+  </entry>
+  <entry>
+    <title>Le vase bleu de Sevres : le bleu qui a rendu les rois jaloux</title>
+    <link href="https://ceramique.uk/produits/le-vase-bleu-de-sevres-le-bleu-qui-a-rendu-les-rois-jaloux/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/produits/le-vase-bleu-de-sevres-le-bleu-qui-a-rendu-les-rois-jaloux/</id>
+    <published>2021-05-10</published>
+    <updated>2021-05-10</updated>
+    <summary>Ne dans les cornues du chimiste Jean Hellot, protege par Madame de Pompadour et Louis XV, le bleu de Sevres est devenu la couleur la plus convoitee de la porcelaine europeenne. Recit d'un bleu qui a rendu les rois jaloux.</summary>
+  </entry>
+  <entry>
     <title>Takuro Kuwata : le punk de la ceramique japonaise</title>
     <link href="https://ceramique.uk/createurs/takuro-kuwata-le-punk-de-la-ceramique-japonaise/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/createurs/takuro-kuwata-le-punk-de-la-ceramique-japonaise/</id>
     <published>2021-05-03</published>
     <updated>2021-05-03</updated>
     <summary>Ne en 1981 a Hiroshima, forme dans la tradition ceramique de la region de Mino, Takuro Kuwata subvertit les techniques ancestrales du raku, du kairagi et du kintsugi avec des emaux fluorescents et des formes explosees. Du temple Kiyomizu-dera a la galerie Alison Jacques de Londres, anatomie d'un punk ceramiste.</summary>
+  </entry>
+  <entry>
+    <title>Jennifer Lee : l'art du silence en ceramique</title>
+    <link href="https://ceramique.uk/createurs/jennifer-lee-l-art-du-silence-en-ceramique/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/createurs/jennifer-lee-l-art-du-silence-en-ceramique/</id>
+    <published>2021-04-26</published>
+    <updated>2021-04-26</updated>
+    <summary>Ecossaise, discrete, radicale : Jennifer Lee construit ses vases au colombin, colore la terre avec des oxydes muris pendant des decennies, et a remporte le Loewe Craft Prize 2018 avec une piece d'une simplicite desarmante. Portrait d'une ceramiste du silence.</summary>
   </entry>
   <entry>
     <title>Andile Dyalvane : la terre rouge d'Afrique du Sud dans les galeries du monde</title>
@@ -120,53 +168,5 @@
     <published>2021-01-25</published>
     <updated>2021-01-25</updated>
     <summary>Au XVIIIe siecle, six bourgades du Staffordshire sont devenues le coeur ceramique du monde. Wedgwood, Spode, Minton, Royal Doulton : comment le genie scientifique, un canal et des veines d'argile ont industrialise la poterie.</summary>
-  </entry>
-  <entry>
-    <title>Akiko Hirai : les Moon Jars qui ont conquis Londres</title>
-    <link href="https://ceramique.uk/createurs/akiko-hirai-les-moon-jars-qui-ont-conquis-londres/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/createurs/akiko-hirai-les-moon-jars-qui-ont-conquis-londres/</id>
-    <published>2021-01-18</published>
-    <updated>2021-01-18</updated>
-    <summary>Nee au Japon, formee a Londres, Akiko Hirai reinvente la Moon Jar coreenne avec une puissance qui a conquis le V&amp;A Museum, le Loewe Craft Prize et les collectionneurs du monde entier. Portrait d'une ceramiste qui transforme l'imperfection en art.</summary>
-  </entry>
-  <entry>
-    <title>Paris ceramique : les dix galeries et boutiques qui comptent</title>
-    <link href="https://ceramique.uk/boutiques/paris-ceramique-les-dix-galeries-et-boutiques-qui-comptent/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/boutiques/paris-ceramique-les-dix-galeries-et-boutiques-qui-comptent/</id>
-    <published>2021-01-11</published>
-    <updated>2021-01-11</updated>
-    <summary>De la galerie Empreintes au marche aux Puces de Saint-Ouen, dix adresses incontournables pour decouvrir et acheter de la ceramique d'auteur a Paris. Guide pratique par quartier avec prix, specialites et conseils de visite.</summary>
-  </entry>
-  <entry>
-    <title>Tendances ceramique 2021 : le retour du gres et l'explosion du fait-main</title>
-    <link href="https://ceramique.uk/saisonnier/tendances-ceramique-2021-le-retour-du-gres-et-l-explosion-du-fait-main/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisonnier/tendances-ceramique-2021-le-retour-du-gres-et-l-explosion-du-fait-main/</id>
-    <published>2021-01-05</published>
-    <updated>2021-01-05</updated>
-    <summary>En ce debut 2021, la ceramique artisanale vit une revolution : retour du gres brut, esthetique wabi-sabi, formes asymetriques, explosion des micro-ateliers post-Covid et renouveau de la cuisson au bois. Analyse d'un mouvement de fond qui dit beaucoup de notre epoque.</summary>
-  </entry>
-  <entry>
-    <title>La ceramique islamique : l'invention du lustre metallique et l'eclat de l'Orient</title>
-    <link href="https://ceramique.uk/histoire/la-ceramique-islamique-l-invention-du-lustre-metallique-et-l-eclat-de-l-orient/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/histoire/la-ceramique-islamique-l-invention-du-lustre-metallique-et-l-eclat-de-l-orient/</id>
-    <published>2020-12-21</published>
-    <updated>2020-12-21</updated>
-    <summary>Au IXe siecle, les potiers de Mesopotamie inventent le lustre metallique — une technique de nanoparticules avant l'heure. De l'Irak abbasside aux carreaux d'Iznik, des azulejos aux maiolicas, voyage au coeur de neuf siecles d'innovation ceramique islamique.</summary>
-  </entry>
-  <entry>
-    <title>Claire Lindner : quand la ceramique devient organique et vivante</title>
-    <link href="https://ceramique.uk/createurs/claire-lindner-quand-la-ceramique-devient-organique-et-vivante/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/createurs/claire-lindner-quand-la-ceramique-devient-organique-et-vivante/</id>
-    <published>2020-12-14</published>
-    <updated>2020-12-14</updated>
-    <summary>Nee a Perpignan, formee a Strasbourg et Londres, Claire Lindner cree des sculptures biomorphiques en gres emaille qui semblent respirer et pousser. Portrait d'une artiste qui brouille la frontiere entre ceramique et sculpture contemporaine.</summary>
-  </entry>
-  <entry>
-    <title>Josiah Wedgwood : le potier qui a invente le marketing moderne</title>
-    <link href="https://ceramique.uk/portraits/josiah-wedgwood-le-potier-qui-a-invente-le-marketing-moderne/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/portraits/josiah-wedgwood-le-potier-qui-a-invente-le-marketing-moderne/</id>
-    <published>2020-12-07</published>
-    <updated>2020-12-07</updated>
-    <summary>De potier handicape par la variole a inventeur du marketing moderne : l'histoire extraordinaire de Josiah Wedgwood (1730-1795), createur de la Queen's Ware et du jasperware, pionnier du catalogue illustre et de la garantie satisfait ou rembourse, ami des savants des Lumieres et grand-pere de Charles Darwin.</summary>
   </entry>
 </feed>
