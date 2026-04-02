@@ -4,11 +4,19 @@
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
-  <updated>2021-07-01</updated>
+  <updated>2021-09-18</updated>
   <author>
     <name>Céramique : L'Esprit de la Terre</name>
   </author>
   <subtitle>La ceramique sous toutes ses formes : histoire, science, createurs, boutiques et savoir-faire</subtitle>
+  <entry>
+    <title>Journees du Patrimoine 2021 : la ceramique cachee dans nos monuments</title>
+    <link href="https://ceramique.uk/saisonnier/journees-du-patrimoine-2021-la-ceramique-cachee-dans-nos-monuments/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/journees-du-patrimoine-2021-la-ceramique-cachee-dans-nos-monuments/</id>
+    <published>2021-09-18</published>
+    <updated>2021-09-18</updated>
+    <summary>En septembre 2021, les Journees du Patrimoine ouvraient 13 000 lieux en France. L'occasion de redécouvrir un patrimoine ceramique omniprésent et invisible : les carreaux Boulenger du metro, les facades Art Nouveau de Lavirotte et Bigot, les ateliers de Sevres, et la faience cachee dans nos hopitaux et nos monuments.</summary>
+  </entry>
   <entry>
     <title>Ete 2021 : cuissons a ciel ouvert et stages ceramique en pleine nature</title>
     <link href="https://ceramique.uk/saisonnier/ete-2021-cuissons-a-ciel-ouvert-et-stages-ceramique-en-pleine-nature/" rel="alternate" type="text/html"/>
@@ -32,6 +40,22 @@
     <published>2021-05-21</published>
     <updated>2021-05-21</updated>
     <summary>En 2021, la ceramique vit un boom sans precedent : reconversions professionnelles, ateliers complets, stages decouverte envahis. Post-Covid, des milliers de personnes quittent leur clavier pour mettre les mains dans l'argile. Pourquoi ce metier millenaire fascine-t-il autant aujourd'hui ?</summary>
+  </entry>
+  <entry>
+    <title>Takuro Kuwata : le punk de la ceramique japonaise</title>
+    <link href="https://ceramique.uk/createurs/takuro-kuwata-le-punk-de-la-ceramique-japonaise/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/createurs/takuro-kuwata-le-punk-de-la-ceramique-japonaise/</id>
+    <published>2021-05-03</published>
+    <updated>2021-05-03</updated>
+    <summary>Ne en 1981 a Hiroshima, forme dans la tradition ceramique de la region de Mino, Takuro Kuwata subvertit les techniques ancestrales du raku, du kairagi et du kintsugi avec des emaux fluorescents et des formes explosees. Du temple Kiyomizu-dera a la galerie Alison Jacques de Londres, anatomie d'un punk ceramiste.</summary>
+  </entry>
+  <entry>
+    <title>Andile Dyalvane : la terre rouge d'Afrique du Sud dans les galeries du monde</title>
+    <link href="https://ceramique.uk/createurs/andile-dyalvane-la-terre-rouge-d-afrique-du-sud-dans-les-galeries-du-monde/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/createurs/andile-dyalvane-la-terre-rouge-d-afrique-du-sud-dans-les-galeries-du-monde/</id>
+    <published>2021-04-19</published>
+    <updated>2021-04-19</updated>
+    <summary>Ne dans un village xhosa du Cap-Oriental, Andile Dyalvane faconne a la main des pieces monumentales en terre cuite, couvertes d'incisions inspirees de la scarification ancestrale. De Ngobozana a la galerie Friedman Benda de New York, portrait d'un ceramiste qui fait parler la terre.</summary>
   </entry>
   <entry>
     <title>Edmund de Waal : la porcelaine comme langage de la memoire</title>
@@ -144,29 +168,5 @@
     <published>2020-12-07</published>
     <updated>2020-12-07</updated>
     <summary>De potier handicape par la variole a inventeur du marketing moderne : l'histoire extraordinaire de Josiah Wedgwood (1730-1795), createur de la Queen's Ware et du jasperware, pionnier du catalogue illustre et de la garantie satisfait ou rembourse, ami des savants des Lumieres et grand-pere de Charles Darwin.</summary>
-  </entry>
-  <entry>
-    <title>Noel ceramique : l'art de la table des fetes, entre heritage et creation</title>
-    <link href="https://ceramique.uk/saisonnier/noel-ceramique-l-art-de-la-table-des-fetes-entre-heritage-et-creation/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisonnier/noel-ceramique-l-art-de-la-table-des-fetes-entre-heritage-et-creation/</id>
-    <published>2020-11-25</published>
-    <updated>2020-11-25</updated>
-    <summary>De la faience de grand-mere aux creations des jeunes ceramistes, Noel est le moment ideal pour dresser une table qui raconte une histoire. Guide de cadeaux, artisans a decouvrir et art du melange des generations : tout ce qu'il faut pour un Noel ceramique.</summary>
-  </entry>
-  <entry>
-    <title>Journees du patrimoine 2020 : la ceramique dans les lieux que vous ne soupconnez pas</title>
-    <link href="https://ceramique.uk/saisonnier/journees-du-patrimoine-2020-la-ceramique-dans-les-lieux-que-vous-ne-soupconnez-pas/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisonnier/journees-du-patrimoine-2020-la-ceramique-dans-les-lieux-que-vous-ne-soupconnez-pas/</id>
-    <published>2020-09-19</published>
-    <updated>2020-09-19</updated>
-    <summary>Des carreaux blancs du metro parisien aux facades Art Nouveau de Jules Lavirotte, des azulejos de Lisbonne aux cheminées d'usine classees : la ceramique se cache dans les lieux les plus inattendus. Guide pour apprendre a la voir lors des Journees du patrimoine 2020.</summary>
-  </entry>
-  <entry>
-    <title>Ete ceramique : terre et eau, les cuissons en plein air</title>
-    <link href="https://ceramique.uk/saisonnier/ete-ceramique-terre-et-eau-les-cuissons-en-plein-air/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisonnier/ete-ceramique-terre-et-eau-les-cuissons-en-plein-air/</id>
-    <published>2020-07-01</published>
-    <updated>2020-07-01</updated>
-    <summary>De la cuisson en fosse, vieille de 30 000 ans, au raku spectaculaire en passant par le baril et le saggar : les techniques de cuisson en plein air offrent des resultats qu'aucun four ferme ne peut reproduire. Guide complet pour un ete ceramique sous le signe du feu.</summary>
   </entry>
 </feed>
