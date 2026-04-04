@@ -4,11 +4,35 @@
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
-  <updated>2021-11-25</updated>
+  <updated>2021-12-23</updated>
   <author>
     <name>Céramique : L'Esprit de la Terre</name>
   </author>
   <subtitle>La ceramique sous toutes ses formes : histoire, science, createurs, boutiques et savoir-faire</subtitle>
+  <entry>
+    <title>Isamu Noguchi : le sculpteur qui voyait la terre comme de la lumière</title>
+    <link href="https://ceramique.uk/portraits/isamu-noguchi-le-sculpteur-qui-voyait-la-terre-comme-de-la-lumiere/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/portraits/isamu-noguchi-le-sculpteur-qui-voyait-la-terre-comme-de-la-lumiere/</id>
+    <published>2021-12-23</published>
+    <updated>2021-12-23</updated>
+    <summary>En 1952, Isamu Noguchi s'installe chez le céramiste Rosanjin à Kamakura et produit un ensemble fascinant de sculptures en terre. Cette expérience nourrit ses célèbres lampes Akari et tout son dialogue entre Orient et Occident, entre le poids de la terre et la légèreté de la lumière.</summary>
+  </entry>
+  <entry>
+    <title>Adelaide Alsop Robineau : la perfection obsessionnelle de la porcelaine américaine</title>
+    <link href="https://ceramique.uk/portraits/adelaide-alsop-robineau-la-perfection-obsessionnelle-de-la-porcelaine-americaine/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/portraits/adelaide-alsop-robineau-la-perfection-obsessionnelle-de-la-porcelaine-americaine/</id>
+    <published>2021-12-20</published>
+    <updated>2021-12-20</updated>
+    <summary>Adelaide Alsop Robineau a consacré plus de mille heures à sculpter son célèbre Scarab Vase, chef-d'œuvre de porcelaine excisée qui remporta le Grand Prix de Turin en 1911. Pionnière de la porcelaine d'art américaine et fondatrice de Keramic Studio, elle incarne la quête obsessionnelle de la perfection dans la terre.</summary>
+  </entry>
+  <entry>
+    <title>La céramique contemporaine entre dans les musées : de Picasso à Ai Weiwei</title>
+    <link href="https://ceramique.uk/histoire/la-ceramique-contemporaine-entre-dans-les-musees-de-picasso-a-ai-weiwei/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/histoire/la-ceramique-contemporaine-entre-dans-les-musees-de-picasso-a-ai-weiwei/</id>
+    <published>2021-12-16</published>
+    <updated>2021-12-16</updated>
+    <summary>De Picasso à Vallauris à Ai Weiwei et ses urnes Han brisées, en passant par la révolution de Peter Voulkos, la céramique contemporaine a conquis les musées du monde entier. Retour sur trois artistes qui ont fait exploser la frontière entre art et artisanat.</summary>
+  </entry>
   <entry>
     <title>Noel 2021 : la table des fetes en céramique artisanale</title>
     <link href="https://ceramique.uk/saisonnier/noel-2021-la-table-des-fetes-en-ceramique-artisanale/" rel="alternate" type="text/html"/>
@@ -144,29 +168,5 @@
     <published>2021-06-07</published>
     <updated>2021-06-07</updated>
     <summary>Vers 1580, le potier Chojiro cree pour le maitre de the Sen no Rikyu un bol noir d'un depouillement total. Analyse technique et philosophique de l'objet le plus simple et le plus profond de l'histoire de la céramique.</summary>
-  </entry>
-  <entry>
-    <title>Fête des meres 2021 : la céramique, le cadeau qui traverse le temps</title>
-    <link href="https://ceramique.uk/saisonnier/fete-des-meres-2021-la-ceramique-le-cadeau-qui-traverse-le-temps/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisonnier/fete-des-meres-2021-la-ceramique-le-cadeau-qui-traverse-le-temps/</id>
-    <published>2021-05-30</published>
-    <updated>2021-05-30</updated>
-    <summary>Pour la fête des meres 2021, la céramique artisanale s'impose comme le cadeau ideal : un objet fait main qui traverse le temps, qui porte la trace d'un artisan et qui accompagne les rituels du quotidien. Guide de cadeaux, adresses d'ateliers et eloge de la valeur emotionnelle du fait-main.</summary>
-  </entry>
-  <entry>
-    <title>Journee du ceramiste 2021 : pourquoi ce métier fascine plus que jamais</title>
-    <link href="https://ceramique.uk/saisonnier/journee-du-ceramiste-2021-pourquoi-ce-metier-fascine-plus-que-jamais/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisonnier/journee-du-ceramiste-2021-pourquoi-ce-metier-fascine-plus-que-jamais/</id>
-    <published>2021-05-21</published>
-    <updated>2021-05-21</updated>
-    <summary>En 2021, la céramique vit un boom sans precedent : reconversions professionnelles, ateliers complets, stages decouverte envahis. Post-Covid, des milliers de personnes quittent leur clavier pour mettre les mains dans l'argile. Pourquoi ce métier millenaire fascine-t-il autant aujourd'hui ?</summary>
-  </entry>
-  <entry>
-    <title>Bouke de Vries : la beaute de la porcelaine brisee</title>
-    <link href="https://ceramique.uk/createurs/bouke-de-vries-la-beaute-de-la-porcelaine-brisee/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/createurs/bouke-de-vries-la-beaute-de-la-porcelaine-brisee/</id>
-    <published>2021-05-17</published>
-    <updated>2021-05-17</updated>
-    <summary>Ancien restaurateur du V&amp;A, le Neerlandais Bouke de Vries transforme la porcelaine brisee en oeuvres d'art. Memory Vessels, War and Pieces, portraits en Delft fracture : plongee dans un univers ou la cassure devient beaute.</summary>
   </entry>
 </feed>

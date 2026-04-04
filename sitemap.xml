@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/portraits/isamu-noguchi-le-sculpteur-qui-voyait-la-terre-comme-de-la-lumiere/</loc>
+    <lastmod>2021-12-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/portraits/adelaide-alsop-robineau-la-perfection-obsessionnelle-de-la-porcelaine-americaine/</loc>
+    <lastmod>2021-12-20</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/histoire/la-ceramique-contemporaine-entre-dans-les-musees-de-picasso-a-ai-weiwei/</loc>
+    <lastmod>2021-12-16</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/saisonnier/noel-2021-la-table-des-fetes-en-ceramique-artisanale/</loc>
     <lastmod>2021-11-25</lastmod>
   </url>
@@ -334,11 +346,11 @@
   </url>
   <url>
     <loc>https://ceramique.uk/histoire/</loc>
-    <lastmod>2021-08-30</lastmod>
+    <lastmod>2021-12-16</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/portraits/</loc>
-    <lastmod>2021-10-11</lastmod>
+    <lastmod>2021-12-23</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/produits/</loc>
@@ -354,6 +366,6 @@
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2021-11-25</lastmod>
+    <lastmod>2021-12-23</lastmod>
   </url>
 </urlset>
