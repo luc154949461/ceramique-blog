@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2020-une-annee-de-terre-et-de-resilience/</loc>
+    <lastmod>2022-01-06</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2019/</loc>
+    <lastmod>2022-01-03</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/portraits/taxile-doat-le-maitre-francais-du-grand-feu-oublie/</loc>
+    <lastmod>2021-12-30</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/portraits/isamu-noguchi-le-sculpteur-qui-voyait-la-terre-comme-de-la-lumiere/</loc>
     <lastmod>2021-12-23</lastmod>
   </url>
@@ -350,7 +362,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/portraits/</loc>
-    <lastmod>2021-12-23</lastmod>
+    <lastmod>2021-12-30</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/produits/</loc>
@@ -358,7 +370,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/saisonnier/</loc>
-    <lastmod>2021-11-25</lastmod>
+    <lastmod>2022-01-06</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/science/</loc>
@@ -366,6 +378,6 @@
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2021-12-23</lastmod>
+    <lastmod>2022-01-06</lastmod>
   </url>
 </urlset>

@@ -4,11 +4,35 @@
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
-  <updated>2021-12-23</updated>
+  <updated>2022-01-06</updated>
   <author>
     <name>Céramique : L'Esprit de la Terre</name>
   </author>
   <subtitle>La ceramique sous toutes ses formes : histoire, science, createurs, boutiques et savoir-faire</subtitle>
+  <entry>
+    <title>Nos 10 coups de coeur ceramique 2020 : une annee de terre et de resilience</title>
+    <link href="https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2020-une-annee-de-terre-et-de-resilience/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2020-une-annee-de-terre-et-de-resilience/</id>
+    <published>2022-01-06</published>
+    <updated>2022-01-06</updated>
+    <summary>2020 a ete l'annee ou la ceramique a prospere malgre les confinements : boom de la poterie, Ceramistes Solidaires, naissance de Minuit Ceramique, innovation Recyclay de Revol, cuissons raku en plein air et resilience des villages de potiers. Retrospective en 10 coups de coeur.</summary>
+  </entry>
+  <entry>
+    <title>Nos 10 coups de coeur ceramique 2019</title>
+    <link href="https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2019/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2019/</id>
+    <published>2022-01-03</published>
+    <updated>2022-01-03</updated>
+    <summary>De la Venus de Dolni Vestonice aux poteries Jomon, de Bernard Palissy a la Biennale de Vallauris : retrospective des dix moments les plus marquants de l'annee ceramique 2019, entre decouvertes scientifiques, expositions magistrales et engouement populaire.</summary>
+  </entry>
+  <entry>
+    <title>Taxile Doat : le maître français du grand feu oublié</title>
+    <link href="https://ceramique.uk/portraits/taxile-doat-le-maitre-francais-du-grand-feu-oublie/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/portraits/taxile-doat-le-maitre-francais-du-grand-feu-oublie/</id>
+    <published>2021-12-30</published>
+    <updated>2021-12-30</updated>
+    <summary>Taxile Doat a passé trente ans à la Manufacture de Sèvres, inventé des émaux cristallins révolutionnaires, écrit la bible du grand feu, traversé l'Atlantique pour enseigner — et pourtant, son nom a failli disparaître. Portrait d'un maître redécouvert.</summary>
+  </entry>
   <entry>
     <title>Isamu Noguchi : le sculpteur qui voyait la terre comme de la lumière</title>
     <link href="https://ceramique.uk/portraits/isamu-noguchi-le-sculpteur-qui-voyait-la-terre-comme-de-la-lumiere/" rel="alternate" type="text/html"/>
@@ -144,29 +168,5 @@
     <published>2021-07-01</published>
     <updated>2021-07-01</updated>
     <summary>En ete 2021, les cuissons a ciel ouvert reprennent de plus belle : pit firing, raku, enfumage en gazette. Terra sigillata, chimie des oxydes et feu communautaire — guide technique et pratique pour un ete de céramique en pleine nature.</summary>
-  </entry>
-  <entry>
-    <title>Les azulejos de Lisbonne : quand les murs racontent l'histoire</title>
-    <link href="https://ceramique.uk/produits/les-azulejos-de-lisbonne-quand-les-murs-racontent-l-histoire/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/produits/les-azulejos-de-lisbonne-quand-les-murs-racontent-l-histoire/</id>
-    <published>2021-06-21</published>
-    <updated>2021-06-21</updated>
-    <summary>Des origines arabes du mot al-zulaij a la revolution abstraite de Maria Keil dans le metro, les azulejos de Lisbonne racontent huit siecles d'histoire sur les murs de la ville. Un patrimoine fragile, menace par le vol, mais plus vivant que jamais.</summary>
-  </entry>
-  <entry>
-    <title>Nathalie Derouet : la ceramiste des chefs etoiles</title>
-    <link href="https://ceramique.uk/createurs/nathalie-derouet-la-ceramiste-des-chefs-etoiles/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/createurs/nathalie-derouet-la-ceramiste-des-chefs-etoiles/</id>
-    <published>2021-06-14</published>
-    <updated>2021-06-14</updated>
-    <summary>Depuis son atelier de Douarnenez face a l'Atlantique, Nathalie Derouet cree de la porcelaine artisanale pour les chefs etoiles Olivier Bellin et Jean-Francois Piege. Analyse d'une ceramiste qui concilie exigence technique et poesie marine.</summary>
-  </entry>
-  <entry>
-    <title>Le bol raku de Chojiro : l'objet le plus simple et le plus profond du monde</title>
-    <link href="https://ceramique.uk/produits/le-bol-raku-de-chojiro-l-objet-le-plus-simple-et-le-plus-profond-du-monde/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/produits/le-bol-raku-de-chojiro-l-objet-le-plus-simple-et-le-plus-profond-du-monde/</id>
-    <published>2021-06-07</published>
-    <updated>2021-06-07</updated>
-    <summary>Vers 1580, le potier Chojiro cree pour le maitre de the Sen no Rikyu un bol noir d'un depouillement total. Analyse technique et philosophique de l'objet le plus simple et le plus profond de l'histoire de la céramique.</summary>
   </entry>
 </feed>
