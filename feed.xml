@@ -4,11 +4,35 @@
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
-  <updated>2022-01-06</updated>
+  <updated>2022-01-21</updated>
   <author>
     <name>Céramique : L'Esprit de la Terre</name>
   </author>
   <subtitle>La ceramique sous toutes ses formes : histoire, science, createurs, boutiques et savoir-faire</subtitle>
+  <entry>
+    <title>Le tour de potier : 10 erreurs de débutant et comment les éviter</title>
+    <link href="https://ceramique.uk/science/le-tour-de-potier-10-erreurs-de-debutant-et-comment-les-eviter/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/science/le-tour-de-potier-10-erreurs-de-debutant-et-comment-les-eviter/</id>
+    <published>2022-01-21</published>
+    <updated>2022-01-21</updated>
+    <summary>Argile mal pétrié, centrage raté, trop d'eau, parois trop fines, séchage catastrophique : voici les 10 erreurs les plus fréquentes au tour de potier et les solutions concrètes pour progresser vite quand on débute.</summary>
+  </entry>
+  <entry>
+    <title>Débuter la céramique : quel stage choisir quand on n'a jamais touché la terre ?</title>
+    <link href="https://ceramique.uk/evenements/debuter-la-ceramique-quel-stage-choisir-quand-on-n-a-jamais-touche-la-terre/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/evenements/debuter-la-ceramique-quel-stage-choisir-quand-on-n-a-jamais-touche-la-terre/</id>
+    <published>2022-01-17</published>
+    <updated>2022-01-17</updated>
+    <summary>Tu rêves de mettre les mains dans la terre mais tu ne sais pas par où commencer ? Stage découverte ou intensif, tour ou modelage, budget de 50 à 500 euros : voici le guide complet pour choisir ton premier stage de céramique en France.</summary>
+  </entry>
+  <entry>
+    <title>Nos 10 coups de coeur céramique 2021 : créateurs, objets et découvertes de l'année</title>
+    <link href="https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2021-createurs-objets-et-decouvertes-de-l-annee/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2021-createurs-objets-et-decouvertes-de-l-annee/</id>
+    <published>2022-01-13</published>
+    <updated>2022-01-13</updated>
+    <summary>D'Andile Dyalvane à Takuro Kuwata, du retour du grès brut aux JEMA « Matières à l'oeuvre », en passant par Josiah Wedgwood et Meissen, découvre nos dix coups de coeur céramique de l'année 2021 — créateurs, objets et événements qui ont marqué l'art de la terre.</summary>
+  </entry>
   <entry>
     <title>Nos 10 coups de coeur ceramique 2020 : une annee de terre et de resilience</title>
     <link href="https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2020-une-annee-de-terre-et-de-resilience/" rel="alternate" type="text/html"/>
@@ -144,29 +168,5 @@
     <published>2021-07-19</published>
     <updated>2021-07-19</updated>
     <summary>Né au XVIIe siècle de l'imitation de la porcelaine chinoise par les potiers hollandais, le carreau de Delft est devenu un art à part entière. De la VOC à Royal Delft, dernière fabrique survivante, en passant par sa renaissance contemporaine, retour sur quatre siècles d'un bleu légendaire.</summary>
-  </entry>
-  <entry>
-    <title>La tasse a cafe : 300 ans d'evolution d'un objet du quotidien</title>
-    <link href="https://ceramique.uk/produits/la-tasse-a-cafe-300-ans-d-evolution-d-un-objet-du-quotidien/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/produits/la-tasse-a-cafe-300-ans-d-evolution-d-un-objet-du-quotidien/</id>
-    <published>2021-07-12</published>
-    <updated>2021-07-12</updated>
-    <summary>Du fincan ottoman sans anse aux mugs artisanaux de la troisieme vague du cafe, la tasse a cafe a traverse 300 ans d'evolution. Meissen, Sevres, Staffordshire, specialty coffee : retour sur l'ingenierie d'un objet du quotidien.</summary>
-  </entry>
-  <entry>
-    <title>Art Nouveau et céramique : quand la terre s'est mise a onduler</title>
-    <link href="https://ceramique.uk/histoire/art-nouveau-et-ceramique-quand-la-terre-s-est-mise-a-onduler/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/histoire/art-nouveau-et-ceramique-quand-la-terre-s-est-mise-a-onduler/</id>
-    <published>2021-07-05</published>
-    <updated>2021-07-05</updated>
-    <summary>De Paris a Budapest, de Barcelone a Cincinnati, l'Art Nouveau a transforme la céramique en medium artistique total. Alexandre Bigot, Zsolnay, Rookwood, Gaudi : quand la terre s'est mise a onduler sur les facades du monde.</summary>
-  </entry>
-  <entry>
-    <title>Été 2021 : cuissons a ciel ouvert et stages céramique en pleine nature</title>
-    <link href="https://ceramique.uk/saisonnier/ete-2021-cuissons-a-ciel-ouvert-et-stages-ceramique-en-pleine-nature/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisonnier/ete-2021-cuissons-a-ciel-ouvert-et-stages-ceramique-en-pleine-nature/</id>
-    <published>2021-07-01</published>
-    <updated>2021-07-01</updated>
-    <summary>En ete 2021, les cuissons a ciel ouvert reprennent de plus belle : pit firing, raku, enfumage en gazette. Terra sigillata, chimie des oxydes et feu communautaire — guide technique et pratique pour un ete de céramique en pleine nature.</summary>
   </entry>
 </feed>

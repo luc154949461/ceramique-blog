@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/science/le-tour-de-potier-10-erreurs-de-debutant-et-comment-les-eviter/</loc>
+    <lastmod>2022-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/evenements/debuter-la-ceramique-quel-stage-choisir-quand-on-n-a-jamais-touche-la-terre/</loc>
+    <lastmod>2022-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2021-createurs-objets-et-decouvertes-de-l-annee/</loc>
+    <lastmod>2022-01-13</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2020-une-annee-de-terre-et-de-resilience/</loc>
     <lastmod>2022-01-06</lastmod>
   </url>
@@ -354,7 +366,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/evenements/</loc>
-    <lastmod>2019-09-14</lastmod>
+    <lastmod>2022-01-17</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/histoire/</loc>
@@ -370,14 +382,14 @@
   </url>
   <url>
     <loc>https://ceramique.uk/saisonnier/</loc>
-    <lastmod>2022-01-06</lastmod>
+    <lastmod>2022-01-13</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/science/</loc>
-    <lastmod>2020-03-23</lastmod>
+    <lastmod>2022-01-21</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2022-01-06</lastmod>
+    <lastmod>2022-01-21</lastmod>
   </url>
 </urlset>
