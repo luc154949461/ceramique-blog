@@ -4,11 +4,59 @@
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
-  <updated>2022-01-21</updated>
+  <updated>2022-03-17</updated>
   <author>
     <name>Céramique : L'Esprit de la Terre</name>
   </author>
   <subtitle>La ceramique sous toutes ses formes : histoire, science, createurs, boutiques et savoir-faire</subtitle>
+  <entry>
+    <title>Le bol : l'objet le plus intime de la céramique — du donburi au bol breton</title>
+    <link href="https://ceramique.uk/produits/le-bol-l-objet-le-plus-intime-de-la-ceramique-du-donburi-au-bol-breton/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/produits/le-bol-l-objet-le-plus-intime-de-la-ceramique-du-donburi-au-bol-breton/</id>
+    <published>2022-03-17</published>
+    <updated>2022-03-17</updated>
+    <summary>Du chawan sacré de la cérémonie du thé au bol breton à oreilles, du donburi japonais au céladon coréen : voyage autour du monde avec l'objet le plus intime de la céramique, celui qu'on tient contre soi.</summary>
+  </entry>
+  <entry>
+    <title>Tasses à café, tasses à thé : pourquoi la forme change tout au goût</title>
+    <link href="https://ceramique.uk/produits/tasses-a-cafe-tasses-a-the-pourquoi-la-forme-change-tout-au-gout/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/produits/tasses-a-cafe-tasses-a-the-pourquoi-la-forme-change-tout-au-gout/</id>
+    <published>2022-03-10</published>
+    <updated>2022-03-10</updated>
+    <summary>De l'espresso de 60 ml au yunomi sans anse, de l'épaisseur du bord à la couleur de l'émail : comment la science et la tradition expliquent pourquoi la forme de ta tasse change radicalement le goût de ton café ou de ton thé.</summary>
+  </entry>
+  <entry>
+    <title>L'assiette : de la terre au design — histoire et anatomie d'un objet universel</title>
+    <link href="https://ceramique.uk/produits/l-assiette-de-la-terre-au-design-histoire-et-anatomie-d-un-objet-universel/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/produits/l-assiette-de-la-terre-au-design-histoire-et-anatomie-d-un-objet-universel/</id>
+    <published>2022-03-03</published>
+    <updated>2022-03-03</updated>
+    <summary>Du tranchoir médiéval à l'assiette asymétrique des designers contemporains, en passant par la maïolique italienne et l'anatomie précise du marli et du bassin : histoire complète de l'objet le plus quotidien de la céramique.</summary>
+  </entry>
+  <entry>
+    <title>Apprendre la céramique en ligne : les meilleurs tutos, chaînes YouTube et cours vidéo</title>
+    <link href="https://ceramique.uk/evenements/apprendre-la-ceramique-en-ligne-les-meilleurs-tutos-chaines-youtube-et-cours-video/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/evenements/apprendre-la-ceramique-en-ligne-les-meilleurs-tutos-chaines-youtube-et-cours-video/</id>
+    <published>2022-02-24</published>
+    <updated>2022-02-24</updated>
+    <summary>De Florian Gadsby à Hsinchuen Lin, de Domestika à Skillshare : panorama complet des ressources en ligne pour apprendre la céramique, avec les limites honnêtes de l'apprentissage par écran et une méthode pour combiner vidéo et pratique.</summary>
+  </entry>
+  <entry>
+    <title>Les meilleures formations céramique en France : écoles, résidences et diplômes</title>
+    <link href="https://ceramique.uk/evenements/les-meilleures-formations-ceramique-en-france-ecoles-residences-et-diplomes/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/evenements/les-meilleures-formations-ceramique-en-france-ecoles-residences-et-diplomes/</id>
+    <published>2022-02-14</published>
+    <updated>2022-02-14</updated>
+    <summary>Du CAP Tournage au DNSEP de Limoges, des stages du CNIFOP aux résidences de La Borne et de Sèvres : panorama complet des formations céramique en France pour celles et ceux qui veulent en faire leur métier.</summary>
+  </entry>
+  <entry>
+    <title>Installer son atelier céramique chez soi : le guide complet</title>
+    <link href="https://ceramique.uk/science/installer-son-atelier-ceramique-chez-soi-le-guide-complet/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/science/installer-son-atelier-ceramique-chez-soi-le-guide-complet/</id>
+    <published>2022-02-03</published>
+    <updated>2022-02-03</updated>
+    <summary>De l'espace minimum aux marques de tours et de fours, en passant par la sécurité face à la silice : tout ce qu'il faut savoir pour aménager son propre atelier de céramique à domicile, avec un budget détaillé poste par poste.</summary>
+  </entry>
   <entry>
     <title>Le tour de potier : 10 erreurs de débutant et comment les éviter</title>
     <link href="https://ceramique.uk/science/le-tour-de-potier-10-erreurs-de-debutant-et-comment-les-eviter/" rel="alternate" type="text/html"/>
@@ -120,53 +168,5 @@
     <published>2021-09-18</published>
     <updated>2021-09-18</updated>
     <summary>En septembre 2021, les Journees du Patrimoine ouvraient 13 000 lieux en France. L'occasion de redécouvrir un patrimoine céramique omniprésent et invisible : les carreaux Boulenger du metro, les facades Art Nouveau de Lavirotte et Bigot, les ateliers de Sevres, et la faience cachee dans nos hopitaux et nos monuments.</summary>
-  </entry>
-  <entry>
-    <title>Marches et foires : les rendez-vous annuels du ceramiste-chineur</title>
-    <link href="https://ceramique.uk/boutiques/marches-et-foires-les-rendez-vous-annuels-du-ceramiste-chineur/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/boutiques/marches-et-foires-les-rendez-vous-annuels-du-ceramiste-chineur/</id>
-    <published>2021-09-06</published>
-    <updated>2021-09-06</updated>
-    <summary>De Dieulefit a Diessen en passant par Anduze, Collect a Londres et les marches de Provence : calendrier commente des meilleures foires et marches de ceramique en France et en Europe, avec conseils pratiques pour le chineur.</summary>
-  </entry>
-  <entry>
-    <title>Le mouvement Studio Pottery : Leach, Hamada et la revolution de l'atelier</title>
-    <link href="https://ceramique.uk/histoire/le-mouvement-studio-pottery-leach-hamada-et-la-revolution-de-l-atelier/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/histoire/le-mouvement-studio-pottery-leach-hamada-et-la-revolution-de-l-atelier/</id>
-    <published>2021-08-30</published>
-    <updated>2021-08-30</updated>
-    <summary>En 1920, Bernard Leach et Hamada Shoji fondent la Leach Pottery a St Ives et posent les bases du mouvement Studio Pottery. De A Potter's Book au Mingei, de Cardew a Lucie Rie : chronique d'une revolution qui a transforme la ceramique mondiale.</summary>
-  </entry>
-  <entry>
-    <title>Japon : le pelerinage du ceramiste a Tokyo, Kyoto et Mashiko</title>
-    <link href="https://ceramique.uk/boutiques/japon-le-pelerinage-du-ceramiste-a-tokyo-kyoto-et-mashiko/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/boutiques/japon-le-pelerinage-du-ceramiste-a-tokyo-kyoto-et-mashiko/</id>
-    <published>2021-08-16</published>
-    <updated>2021-08-16</updated>
-    <summary>De la rue Kappabashi a Tokyo au quartier de Gojo-zaka a Kyoto, en passant par Mashiko, la ville de Hamada Shoji : itineraire d'un pelerinage ceramique au Japon, entre boutiques, marches de poterie et rencontres avec les artisans.</summary>
-  </entry>
-  <entry>
-    <title>Londres, Amsterdam, Lisbonne : la céramique de l'autre côté</title>
-    <link href="https://ceramique.uk/boutiques/londres-amsterdam-lisbonne-la-ceramique-de-l-autre-cote/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/boutiques/londres-amsterdam-lisbonne-la-ceramique-de-l-autre-cote/</id>
-    <published>2021-08-09</published>
-    <updated>2021-08-09</updated>
-    <summary>De Londres à Lisbonne en passant par Amsterdam, trois capitales européennes offrent des scènes céramiques radicalement différentes. Galeries spécialisées, boutiques de design, azulejos dans la rue : guide technique et pratique des meilleures adresses céramiques hors de France.</summary>
-  </entry>
-  <entry>
-    <title>Acheter de la céramique en ligne : les meilleures plateformes et boutiques web</title>
-    <link href="https://ceramique.uk/boutiques/acheter-de-la-ceramique-en-ligne-les-meilleures-plateformes-et-boutiques-web/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/boutiques/acheter-de-la-ceramique-en-ligne-les-meilleures-plateformes-et-boutiques-web/</id>
-    <published>2021-08-02</published>
-    <updated>2021-08-02</updated>
-    <summary>D'Etsy aux plateformes haut de gamme comme Pamono et 1stDibs, en passant par les boutiques directes des céramistes, le marché en ligne de la céramique offre un accès inédit aux créateurs du monde entier. Guide pratique pour acheter sans toucher — et ne pas se tromper.</summary>
-  </entry>
-  <entry>
-    <title>Le carreau de Delft : comment un carrelage hollandais est devenu art</title>
-    <link href="https://ceramique.uk/produits/le-carreau-de-delft-comment-un-carrelage-hollandais-est-devenu-art/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/produits/le-carreau-de-delft-comment-un-carrelage-hollandais-est-devenu-art/</id>
-    <published>2021-07-19</published>
-    <updated>2021-07-19</updated>
-    <summary>Né au XVIIe siècle de l'imitation de la porcelaine chinoise par les potiers hollandais, le carreau de Delft est devenu un art à part entière. De la VOC à Royal Delft, dernière fabrique survivante, en passant par sa renaissance contemporaine, retour sur quatre siècles d'un bleu légendaire.</summary>
   </entry>
 </feed>
