@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/saisonnier/jema-2022-la-ceramique-en-fete-dans-les-ateliers-de-france/</loc>
+    <lastmod>2022-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/saint-valentin-2022-offrir-de-la-ceramique-offrir-du-sens/</loc>
+    <lastmod>2022-09-12</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/tendances-ceramique-2022-la-terre-s-invite-partout/</loc>
+    <lastmod>2022-09-08</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/produits/les-formes-innovantes-quand-les-ceramistes-cassent-les-codes-de-la-vaisselle/</loc>
+    <lastmod>2022-03-31</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/produits/la-theiere-un-chef-d-oeuvre-d-ingenierie-ceramique-en-miniature/</loc>
+    <lastmod>2022-03-24</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/produits/le-bol-l-objet-le-plus-intime-de-la-ceramique-du-donburi-au-bol-breton/</loc>
     <lastmod>2022-03-17</lastmod>
   </url>
@@ -402,11 +422,11 @@
   </url>
   <url>
     <loc>https://ceramique.uk/produits/</loc>
-    <lastmod>2022-03-17</lastmod>
+    <lastmod>2022-03-31</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/saisonnier/</loc>
-    <lastmod>2022-01-13</lastmod>
+    <lastmod>2022-09-16</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/science/</loc>
@@ -414,6 +434,6 @@
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2022-03-17</lastmod>
+    <lastmod>2022-09-16</lastmod>
   </url>
 </urlset>
