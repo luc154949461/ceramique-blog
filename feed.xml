@@ -4,11 +4,59 @@
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
-  <updated>2022-09-23</updated>
+  <updated>2022-10-07</updated>
   <author>
     <name>Céramique : L'Esprit de la Terre</name>
   </author>
   <subtitle>La ceramique sous toutes ses formes : histoire, science, createurs, boutiques et savoir-faire</subtitle>
+  <entry>
+    <title>Cheminees industrielles : la ceramique qui touche le ciel</title>
+    <link href="https://ceramique.uk/histoire/cheminees-industrielles-la-ceramique-qui-touche-le-ciel/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/histoire/cheminees-industrielles-la-ceramique-qui-touche-le-ciel/</id>
+    <published>2022-10-07</published>
+    <updated>2022-10-07</updated>
+    <summary>Les cheminées industrielles en brique réfractaire sont des monuments céramiques oubliés : construites en argile alumineuse à haute résistance thermique, souvent ornées de motifs en brique polychrome, 69 d'entre elles sont protégées en France. Samir K. retrace leur histoire et alerte sur la disparition d'un savoir-faire briquetier unique.</summary>
+  </entry>
+  <entry>
+    <title>Ceramique Art Deco : quand les facades de Paris se couvrent de terre</title>
+    <link href="https://ceramique.uk/histoire/ceramique-art-deco-quand-les-facades-de-paris-se-couvrent-de-terre/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/histoire/ceramique-art-deco-quand-les-facades-de-paris-se-couvrent-de-terre/</id>
+    <published>2022-10-07</published>
+    <updated>2022-10-07</updated>
+    <summary>Dans les années 1920-1930, la céramique Art Déco investit les façades parisiennes : Henri Sauvage habille ses immeubles à gradins de faïence blanche (26 rue Vavin), la céramique répond aux préoccupations hygiénistes de l'époque, et l'Exposition de 1925 accélère ce mouvement unique en Europe.</summary>
+  </entry>
+  <entry>
+    <title>Les carreaux du metro parisien : cent ans de faience sous terre</title>
+    <link href="https://ceramique.uk/histoire/les-carreaux-du-metro-parisien-cent-ans-de-faience-sous-terre/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/histoire/les-carreaux-du-metro-parisien-cent-ans-de-faience-sous-terre/</id>
+    <published>2022-10-07</published>
+    <updated>2022-10-07</updated>
+    <summary>Les carreaux de faïence blanche biseautée du métro parisien ont été fabriqués à partir de 1900 par la manufacture Boulenger de Choisy-le-Roi, à raison de 200 000 pièces par semaine. Henri D. raconte l'histoire industrielle et patrimoniale de ce trésor céramique souterrain menacé par les rénovations modernes.</summary>
+  </entry>
+  <entry>
+    <title>Les outils du potier : portrait d'un atelier</title>
+    <link href="https://ceramique.uk/science/les-outils-du-potier-portrait-d-un-atelier/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/science/les-outils-du-potier-portrait-d-un-atelier/</id>
+    <published>2022-09-30</published>
+    <updated>2022-09-30</updated>
+    <summary>Visite guidée de l'atelier du potier à travers ses outils essentiels : tour électrique ou à pied, éstèques, mirettes, poires à engobe, et le four — chacun avec sa philosophie. Samir K. décrypte l'équipement du céramiste, des indispensables aux petits secrets de l'établi.</summary>
+  </entry>
+  <entry>
+    <title>Cuisson biscuit contre cuisson email : deux feux, deux logiques</title>
+    <link href="https://ceramique.uk/science/cuisson-biscuit-contre-cuisson-email-deux-feux-deux-logiques/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/science/cuisson-biscuit-contre-cuisson-email-deux-feux-deux-logiques/</id>
+    <published>2022-09-30</published>
+    <updated>2022-09-30</updated>
+    <summary>Pourquoi cuire deux fois ? Henri D. explique la logique thermodynamique de la cuisson biscuit (980°C, céramisation et porosité) et de la cuisson émail (fusion des glacures, palier, atmosphères), deux étapes irremplaçables avec leurs propres lois.</summary>
+  </entry>
+  <entry>
+    <title>Le sechage parfait : la patience avant le feu</title>
+    <link href="https://ceramique.uk/science/le-sechage-parfait-la-patience-avant-le-feu/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/science/le-sechage-parfait-la-patience-avant-le-feu/</id>
+    <published>2022-09-30</published>
+    <updated>2022-09-30</updated>
+    <summary>Le séchage est l'étape la plus sous-estimée — et la plus risquée — du processus céramique. Clara explique la physique de l'évaporation dans l'argile, les trois types d'eau, les phases de retrait, et les techniques pour sécher sans fissures.</summary>
+  </entry>
   <entry>
     <title>L'engobe : peindre la terre avec la terre</title>
     <link href="https://ceramique.uk/science/l-engobe-peindre-la-terre-avec-la-terre/" rel="alternate" type="text/html"/>
@@ -120,53 +168,5 @@
     <published>2022-02-03</published>
     <updated>2022-02-03</updated>
     <summary>De l'espace minimum aux marques de tours et de fours, en passant par la sécurité face à la silice : tout ce qu'il faut savoir pour aménager son propre atelier de céramique à domicile, avec un budget détaillé poste par poste.</summary>
-  </entry>
-  <entry>
-    <title>Le tour de potier : 10 erreurs de débutant et comment les éviter</title>
-    <link href="https://ceramique.uk/science/le-tour-de-potier-10-erreurs-de-debutant-et-comment-les-eviter/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/science/le-tour-de-potier-10-erreurs-de-debutant-et-comment-les-eviter/</id>
-    <published>2022-01-21</published>
-    <updated>2022-01-21</updated>
-    <summary>Argile mal pétrié, centrage raté, trop d'eau, parois trop fines, séchage catastrophique : voici les 10 erreurs les plus fréquentes au tour de potier et les solutions concrètes pour progresser vite quand on débute.</summary>
-  </entry>
-  <entry>
-    <title>Débuter la céramique : quel stage choisir quand on n'a jamais touché la terre ?</title>
-    <link href="https://ceramique.uk/evenements/debuter-la-ceramique-quel-stage-choisir-quand-on-n-a-jamais-touche-la-terre/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/evenements/debuter-la-ceramique-quel-stage-choisir-quand-on-n-a-jamais-touche-la-terre/</id>
-    <published>2022-01-17</published>
-    <updated>2022-01-17</updated>
-    <summary>Tu rêves de mettre les mains dans la terre mais tu ne sais pas par où commencer ? Stage découverte ou intensif, tour ou modelage, budget de 50 à 500 euros : voici le guide complet pour choisir ton premier stage de céramique en France.</summary>
-  </entry>
-  <entry>
-    <title>Nos 10 coups de coeur céramique 2021 : créateurs, objets et découvertes de l'année</title>
-    <link href="https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2021-createurs-objets-et-decouvertes-de-l-annee/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2021-createurs-objets-et-decouvertes-de-l-annee/</id>
-    <published>2022-01-13</published>
-    <updated>2022-01-13</updated>
-    <summary>D'Andile Dyalvane à Takuro Kuwata, du retour du grès brut aux JEMA « Matières à l'oeuvre », en passant par Josiah Wedgwood et Meissen, découvre nos dix coups de coeur céramique de l'année 2021 — créateurs, objets et événements qui ont marqué l'art de la terre.</summary>
-  </entry>
-  <entry>
-    <title>Nos 10 coups de coeur ceramique 2020 : une annee de terre et de resilience</title>
-    <link href="https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2020-une-annee-de-terre-et-de-resilience/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2020-une-annee-de-terre-et-de-resilience/</id>
-    <published>2022-01-06</published>
-    <updated>2022-01-06</updated>
-    <summary>2020 a ete l'annee ou la ceramique a prospere malgre les confinements : boom de la poterie, Ceramistes Solidaires, naissance de Minuit Ceramique, innovation Recyclay de Revol, cuissons raku en plein air et resilience des villages de potiers. Retrospective en 10 coups de coeur.</summary>
-  </entry>
-  <entry>
-    <title>Nos 10 coups de coeur ceramique 2019</title>
-    <link href="https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2019/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/saisonnier/nos-10-coups-de-coeur-ceramique-2019/</id>
-    <published>2022-01-03</published>
-    <updated>2022-01-03</updated>
-    <summary>De la Venus de Dolni Vestonice aux poteries Jomon, de Bernard Palissy a la Biennale de Vallauris : retrospective des dix moments les plus marquants de l'annee ceramique 2019, entre decouvertes scientifiques, expositions magistrales et engouement populaire.</summary>
-  </entry>
-  <entry>
-    <title>Taxile Doat : le maître français du grand feu oublié</title>
-    <link href="https://ceramique.uk/portraits/taxile-doat-le-maitre-francais-du-grand-feu-oublie/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/portraits/taxile-doat-le-maitre-francais-du-grand-feu-oublie/</id>
-    <published>2021-12-30</published>
-    <updated>2021-12-30</updated>
-    <summary>Taxile Doat a passé trente ans à la Manufacture de Sèvres, inventé des émaux cristallins révolutionnaires, écrit la bible du grand feu, traversé l'Atlantique pour enseigner — et pourtant, son nom a failli disparaître. Portrait d'un maître redécouvert.</summary>
   </entry>
 </feed>
