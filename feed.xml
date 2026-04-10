@@ -4,11 +4,35 @@
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
-  <updated>2022-09-16</updated>
+  <updated>2022-09-23</updated>
   <author>
     <name>Céramique : L'Esprit de la Terre</name>
   </author>
   <subtitle>La ceramique sous toutes ses formes : histoire, science, createurs, boutiques et savoir-faire</subtitle>
+  <entry>
+    <title>L'engobe : peindre la terre avec la terre</title>
+    <link href="https://ceramique.uk/science/l-engobe-peindre-la-terre-avec-la-terre/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/science/l-engobe-peindre-la-terre-avec-la-terre/</id>
+    <published>2022-09-23</published>
+    <updated>2022-09-23</updated>
+    <summary>L'engobe est une barbotine argileuse colorée aux oxydes — ni émail, ni peinture, mais de la terre sur la terre. Technique aussi ancienne que la céramique, elle offre un répertoire infini : trempage, pinceau, sgraffite, mishima coréen. Un guide complet pour comprendre et pratiquer.</summary>
+  </entry>
+  <entry>
+    <title>Les emaux cendres : quand le feu devient couleur</title>
+    <link href="https://ceramique.uk/science/les-emaux-cendres-quand-le-feu-devient-couleur/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/science/les-emaux-cendres-quand-le-feu-devient-couleur/</id>
+    <published>2022-09-23</published>
+    <updated>2022-09-23</updated>
+    <summary>Nés d'une découverte accidentelle dans les fours à bois de la Chine ancienne, les émaux de cendres comptent parmi les plus vieux revêtements céramiques du monde. De leur chimie complexe à leurs variantes selon l'essence de bois, découvrez comment la poussière de végétaux se transforme en couleur sous l'action du feu.</summary>
+  </entry>
+  <entry>
+    <title>Tournassage et finitions : le geste qui fait la piece</title>
+    <link href="https://ceramique.uk/science/tournassage-et-finitions-le-geste-qui-fait-la-piece/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/science/tournassage-et-finitions-le-geste-qui-fait-la-piece/</id>
+    <published>2022-09-23</published>
+    <updated>2022-09-23</updated>
+    <summary>Le tournassage est l'étape invisible qui transforme une forme brute en objet abouti. Du tournassin à l'éponge humide, on y découvre la consistance cuir, les outils du potier, et l'art de créer un pied — cette signature discrète posée sous chaque pièce.</summary>
+  </entry>
   <entry>
     <title>JEMA 2022 : la céramique en fête dans les ateliers de France</title>
     <link href="https://ceramique.uk/saisonnier/jema-2022-la-ceramique-en-fete-dans-les-ateliers-de-france/" rel="alternate" type="text/html"/>
@@ -144,29 +168,5 @@
     <published>2021-12-30</published>
     <updated>2021-12-30</updated>
     <summary>Taxile Doat a passé trente ans à la Manufacture de Sèvres, inventé des émaux cristallins révolutionnaires, écrit la bible du grand feu, traversé l'Atlantique pour enseigner — et pourtant, son nom a failli disparaître. Portrait d'un maître redécouvert.</summary>
-  </entry>
-  <entry>
-    <title>Isamu Noguchi : le sculpteur qui voyait la terre comme de la lumière</title>
-    <link href="https://ceramique.uk/portraits/isamu-noguchi-le-sculpteur-qui-voyait-la-terre-comme-de-la-lumiere/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/portraits/isamu-noguchi-le-sculpteur-qui-voyait-la-terre-comme-de-la-lumiere/</id>
-    <published>2021-12-23</published>
-    <updated>2021-12-23</updated>
-    <summary>En 1952, Isamu Noguchi s'installe chez le céramiste Rosanjin à Kamakura et produit un ensemble fascinant de sculptures en terre. Cette expérience nourrit ses célèbres lampes Akari et tout son dialogue entre Orient et Occident, entre le poids de la terre et la légèreté de la lumière.</summary>
-  </entry>
-  <entry>
-    <title>Adelaide Alsop Robineau : la perfection obsessionnelle de la porcelaine américaine</title>
-    <link href="https://ceramique.uk/portraits/adelaide-alsop-robineau-la-perfection-obsessionnelle-de-la-porcelaine-americaine/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/portraits/adelaide-alsop-robineau-la-perfection-obsessionnelle-de-la-porcelaine-americaine/</id>
-    <published>2021-12-20</published>
-    <updated>2021-12-20</updated>
-    <summary>Adelaide Alsop Robineau a consacré plus de mille heures à sculpter son célèbre Scarab Vase, chef-d'œuvre de porcelaine excisée qui remporta le Grand Prix de Turin en 1911. Pionnière de la porcelaine d'art américaine et fondatrice de Keramic Studio, elle incarne la quête obsessionnelle de la perfection dans la terre.</summary>
-  </entry>
-  <entry>
-    <title>La céramique contemporaine entre dans les musées : de Picasso à Ai Weiwei</title>
-    <link href="https://ceramique.uk/histoire/la-ceramique-contemporaine-entre-dans-les-musees-de-picasso-a-ai-weiwei/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/histoire/la-ceramique-contemporaine-entre-dans-les-musees-de-picasso-a-ai-weiwei/</id>
-    <published>2021-12-16</published>
-    <updated>2021-12-16</updated>
-    <summary>De Picasso à Vallauris à Ai Weiwei et ses urnes Han brisées, en passant par la révolution de Peter Voulkos, la céramique contemporaine a conquis les musées du monde entier. Retour sur trois artistes qui ont fait exploser la frontière entre art et artisanat.</summary>
   </entry>
 </feed>

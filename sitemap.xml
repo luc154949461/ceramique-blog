@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/science/l-engobe-peindre-la-terre-avec-la-terre/</loc>
+    <lastmod>2022-09-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/science/les-emaux-cendres-quand-le-feu-devient-couleur/</loc>
+    <lastmod>2022-09-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/science/tournassage-et-finitions-le-geste-qui-fait-la-piece/</loc>
+    <lastmod>2022-09-23</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/saisonnier/jema-2022-la-ceramique-en-fete-dans-les-ateliers-de-france/</loc>
     <lastmod>2022-09-16</lastmod>
   </url>
@@ -430,10 +442,10 @@
   </url>
   <url>
     <loc>https://ceramique.uk/science/</loc>
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2022-09-23</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2022-09-16</lastmod>
+    <lastmod>2022-09-23</lastmod>
   </url>
 </urlset>
