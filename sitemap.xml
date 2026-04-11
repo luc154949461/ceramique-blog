@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/dossier/biennale-de-la-ceramique-2023-2024-les-expositions-internationales-a-ne-pas-manquer/</loc>
+    <lastmod>2023-04-23</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/dossier/ceramique-japonaise-contemporaine-de-la-tradition-wabi-sabi-a-l-avant-garde/</loc>
+    <lastmod>2023-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/dossier/ceramique-et-gastronomie-quand-les-grands-chefs-faconnent-leurs-propres-assiettes/</loc>
+    <lastmod>2023-04-21</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/noel-2023-ceramique-d-exception-au-pied-du-sapin-et-top-10-coups-de-coeur/</loc>
+    <lastmod>2023-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/noel-2022-la-ceramique-au-pied-du-sapin/</loc>
+    <lastmod>2023-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/saisonnier/ete-2022-marches-potiers-stages-et-terre-en-plein-air/</loc>
+    <lastmod>2023-04-14</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/saisonnier/journees-du-patrimoine-2023-ceramique-sport-et-patrimoine-vivant/</loc>
     <lastmod>2023-01-20</lastmod>
   </url>
@@ -493,6 +517,10 @@
     <lastmod>2023-01-13</lastmod>
   </url>
   <url>
+    <loc>https://ceramique.uk/dossier/</loc>
+    <lastmod>2023-04-23</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/evenements/</loc>
     <lastmod>2022-02-24</lastmod>
   </url>
@@ -510,7 +538,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/saisonnier/</loc>
-    <lastmod>2023-01-20</lastmod>
+    <lastmod>2023-04-16</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/science/</loc>
@@ -518,6 +546,6 @@
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2023-01-20</lastmod>
+    <lastmod>2023-04-23</lastmod>
   </url>
 </urlset>
