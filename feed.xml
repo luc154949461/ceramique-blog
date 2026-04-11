@@ -4,80 +4,112 @@
   <link href="https://ceramique.uk/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://ceramique.uk/" rel="alternate" type="text/html"/>
   <id>https://ceramique.uk/</id>
-  <updated>2023-04-23</updated>
+  <updated>2024-03-12</updated>
   <author>
     <name>Céramique : L'Esprit de la Terre</name>
   </author>
   <subtitle>La ceramique sous toutes ses formes : histoire, science, createurs, boutiques et savoir-faire</subtitle>
   <entry>
+    <title>JEMA 2024 : sur le bout des doigts — la céramique tactile</title>
+    <link href="https://ceramique.uk/saisonnier/jema-2024-sur-le-bout-des-doigts-la-ceramique-tactile/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/jema-2024-sur-le-bout-des-doigts-la-ceramique-tactile/</id>
+    <published>2024-03-12</published>
+    <updated>2024-03-12</updated>
+    <summary>Du 2 au 7 avril 2024, les Journées Européennes des Métiers d'Art célèbrent « Sur le bout des doigts » — un thème taillé pour la céramique, art du toucher par excellence. Avec l'Auvergne-Rhône-Alpes en région phare et le Portugal en invité d'honneur, cette édition promet des démonstrations, des ateliers ouverts et une plongée dans la richesse de l'azulejo portugais. Un rendez-vous à ne manquer sous aucun prétexte.</summary>
+  </entry>
+  <entry>
+    <title>Tendances céramique 2024 : matières sensorielles et retour au corps</title>
+    <link href="https://ceramique.uk/saisonnier/tendances-ceramique-2024-matieres-sensorielles-et-retour-au-corps/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/saisonnier/tendances-ceramique-2024-matieres-sensorielles-et-retour-au-corps/</id>
+    <published>2024-03-11</published>
+    <updated>2024-03-11</updated>
+    <summary>Après des années de minimalisme, la céramique 2024 renoue avec le toucher : textures tactiles, formes enveloppantes, émaux satinés aux pastels profonds et empreintes botaniques. Un panorama des tendances saisonnières qui dessinent un retour au corps et aux sens.</summary>
+  </entry>
+  <entry>
+    <title>Vallauris, La Borne, Desvres : voyage au cœur des capitales céramiques françaises</title>
+    <link href="https://ceramique.uk/dossier/vallauris-la-borne-desvres-voyage-au-coeur-des-capitales-ceramiques-francaises/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/dossier/vallauris-la-borne-desvres-voyage-au-coeur-des-capitales-ceramiques-francaises/</id>
+    <published>2023-10-24</published>
+    <updated>2023-10-24</updated>
+    <summary>De Vallauris où Picasso a tout révolutionné, à La Borne où le grès berrichon attire des céramistes du monde entier, en passant par Desvres et sa faïence du Nord aux décors peints à la main : portrait de trois capitales françaises de la céramique, et quelques pistes pour composer votre itinéraire de potier voyageur.</summary>
+  </entry>
+  <entry>
+    <title>Le kintsugi : l'art japonais de la réparation dorée et sa philosophie de vie</title>
+    <link href="https://ceramique.uk/dossier/le-kintsugi-l-art-japonais-de-la-reparation-doree-et-sa-philosophie-de-vie/" rel="alternate" type="text/html"/>
+    <id>https://ceramique.uk/dossier/le-kintsugi-l-art-japonais-de-la-reparation-doree-et-sa-philosophie-de-vie/</id>
+    <published>2023-10-23</published>
+    <updated>2023-10-23</updated>
+    <summary>Le kintsugi, c'est l'art japonais de réparer la céramique brisée avec de la laque mélangée à de la poudre d'or, d'argent ou de platine. Mais c'est surtout une philosophie qui dit que les blessures font partie de l'histoire d'un objet — et d'une vie. On t'explique tout : la technique, le wabi-sabi, et comment te lancer chez toi.</summary>
+  </entry>
+  <entry>
     <title>Biennale de la céramique 2023-2024 : les expositions internationales à ne pas manquer</title>
     <link href="https://ceramique.uk/dossier/biennale-de-la-ceramique-2023-2024-les-expositions-internationales-a-ne-pas-manquer/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/dossier/biennale-de-la-ceramique-2023-2024-les-expositions-internationales-a-ne-pas-manquer/</id>
-    <published>2023-04-23</published>
-    <updated>2023-04-23</updated>
+    <published>2023-10-22</published>
+    <updated>2023-10-22</updated>
     <summary>De Daugavpils en Lettonie à Jingdezhen en Chine, en passant par Aveiro au Portugal, la saison 2023-2024 est exceptionnellement riche en biennales de céramique internationale. Tour d'horizon des expositions à ne pas manquer et des tendances qui traversent la scène mondiale : médias mixtes, technologies émergentes et retour aux argiles locales.</summary>
   </entry>
   <entry>
     <title>Céramique japonaise contemporaine : de la tradition wabi-sabi à l'avant-garde</title>
     <link href="https://ceramique.uk/dossier/ceramique-japonaise-contemporaine-de-la-tradition-wabi-sabi-a-l-avant-garde/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/dossier/ceramique-japonaise-contemporaine-de-la-tradition-wabi-sabi-a-l-avant-garde/</id>
-    <published>2023-04-22</published>
-    <updated>2023-04-22</updated>
+    <published>2023-10-21</published>
+    <updated>2023-10-21</updated>
     <summary>Entre Takuro Kuwata qui dynamite le chawan traditionnel et les céramistes qui fusionnent modélisation 3D et savoir-faire ancestral, la céramique japonaise contemporaine est un terrain de tension créatrice fascinant. Plongée dans un art qui porte en lui des millénaires de wabi-sabi et l'audace de l'avant-garde internationale.</summary>
   </entry>
   <entry>
     <title>Céramique et gastronomie : quand les grands chefs façonnent leurs propres assiettes</title>
     <link href="https://ceramique.uk/dossier/ceramique-et-gastronomie-quand-les-grands-chefs-faconnent-leurs-propres-assiettes/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/dossier/ceramique-et-gastronomie-quand-les-grands-chefs-faconnent-leurs-propres-assiettes/</id>
-    <published>2023-04-21</published>
-    <updated>2023-04-21</updated>
+    <published>2023-10-20</published>
+    <updated>2023-10-20</updated>
     <summary>De plus en plus de chefs étoilés collaborent avec des céramistes ou créent leur propre vaisselle. À Baumanière avec Cécile Cayrol, comme dans les tables de Colagreco ou Mazzia, l'assiette devient le prolongement du plat — une œuvre à part entière. Plongée dans ce dialogue fascinant entre terre et gastronomie.</summary>
   </entry>
   <entry>
     <title>Noël 2023 : céramique d'exception au pied du sapin — et Top 10 coups de cœur</title>
     <link href="https://ceramique.uk/saisonnier/noel-2023-ceramique-d-exception-au-pied-du-sapin-et-top-10-coups-de-coeur/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/saisonnier/noel-2023-ceramique-d-exception-au-pied-du-sapin-et-top-10-coups-de-coeur/</id>
-    <published>2023-04-16</published>
-    <updated>2023-04-16</updated>
+    <published>2023-10-15</published>
+    <updated>2023-10-15</updated>
     <summary>Notre Top 10 des plus belles pièces céramiques découvertes en 2023, plus une sélection de cadeaux pour les fêtes : des créations françaises et internationales qui traversent le temps. Du bol à thé japonais au vase sculptural contemporain, voici notre bilan d'une année exceptionnelle pour la céramique artisanale.</summary>
   </entry>
   <entry>
     <title>Noel 2022 : la ceramique au pied du sapin</title>
     <link href="https://ceramique.uk/saisonnier/noel-2022-la-ceramique-au-pied-du-sapin/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/saisonnier/noel-2022-la-ceramique-au-pied-du-sapin/</id>
-    <published>2023-04-15</published>
-    <updated>2023-04-15</updated>
+    <published>2023-10-14</published>
+    <updated>2023-10-14</updated>
     <summary>Pour les fêtes de fin d'année 2022, offrez de la céramique artisanale : des cadeaux durables, beaux et chargés de sens. Des services à thé aux bougeoirs en grès, des décorations de sapin en porcelaine aux pièces uniques de créateurs, voici notre guide complet pour trouver le cadeau parfait.</summary>
   </entry>
   <entry>
     <title>Ete 2022 : marches potiers, stages et terre en plein air</title>
     <link href="https://ceramique.uk/saisonnier/ete-2022-marches-potiers-stages-et-terre-en-plein-air/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/saisonnier/ete-2022-marches-potiers-stages-et-terre-en-plein-air/</id>
-    <published>2023-04-14</published>
-    <updated>2023-04-14</updated>
+    <published>2023-10-13</published>
+    <updated>2023-10-13</updated>
     <summary>L'été 2022 s'annonce comme une saison dorée pour les amoureux de céramique. Des marchés potiers aux stages d'initiation en plein air, de Saint-Quentin-la-Poterie à La Borne, la céramique sort des ateliers pour rencontrer le public. On t'explique où aller et quoi faire cet été !</summary>
   </entry>
   <entry>
     <title>Journées du Patrimoine 2023 : céramique, sport et patrimoine vivant</title>
     <link href="https://ceramique.uk/saisonnier/journees-du-patrimoine-2023-ceramique-sport-et-patrimoine-vivant/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/saisonnier/journees-du-patrimoine-2023-ceramique-sport-et-patrimoine-vivant/</id>
-    <published>2023-01-20</published>
-    <updated>2023-01-20</updated>
+    <published>2023-07-21</published>
+    <updated>2023-07-21</updated>
     <summary>Les 16 et 17 septembre 2023, les Journées Européennes du Patrimoine ont célébré le « Patrimoine vivant » avec des ouvertures exceptionnelles à la Cité de la Céramique de Sèvres, aux manufactures de Limoges et dans les monuments historiques à décors céramiques. Samir K. fait le tour des temps forts.</summary>
   </entry>
   <entry>
     <title>Été 2023 : marchés potiers, festivals et terre en plein air</title>
     <link href="https://ceramique.uk/saisonnier/ete-2023-marches-potiers-festivals-et-terre-en-plein-air/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/saisonnier/ete-2023-marches-potiers-festivals-et-terre-en-plein-air/</id>
-    <published>2023-01-20</published>
-    <updated>2023-01-20</updated>
+    <published>2023-07-21</published>
+    <updated>2023-07-21</updated>
     <summary>L'été 2023 a été une saison exceptionnelle pour la céramique en plein air : du festival Terralha à Saint-Quentin-la-Poterie au marché de Dieulefit, en passant par La Borne et Vallauris, Clara M. raconte les rendez-vous incontournables et donne ses conseils pour acheter sur un marché potier.</summary>
   </entry>
   <entry>
     <title>JEMA 2023 : la céramique vivante au cœur des ateliers</title>
     <link href="https://ceramique.uk/saisonnier/jema-2023-la-ceramique-vivante-au-coeur-des-ateliers/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/saisonnier/jema-2023-la-ceramique-vivante-au-coeur-des-ateliers/</id>
-    <published>2023-01-20</published>
+    <published>2023-07-21</published>
     <updated>2023-01-20</updated>
     <summary>Du 27 mars au 2 avril 2023, les Journées Européennes des Métiers d'Art ouvrent les portes des ateliers céramique à travers toute la France. Henri D. vous guide de Vallauris à La Borne, en passant par Desvres, pour ne rien manquer de cette semaine exceptionnelle.</summary>
   </entry>
@@ -85,7 +117,7 @@
     <title>Tendances céramique 2023 : la terre entre dans les cuisines étoilées</title>
     <link href="https://ceramique.uk/saisonnier/tendances-ceramique-2023-la-terre-entre-dans-les-cuisines-etoilees/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/saisonnier/tendances-ceramique-2023-la-terre-entre-dans-les-cuisines-etoilees/</id>
-    <published>2023-01-13</published>
+    <published>2023-07-14</published>
     <updated>2023-01-13</updated>
     <summary>En 2023, la céramique d'auteur s'impose dans les cuisines étoilées — de la collaboration entre Cécile Cayrol et Glenn Viel à l'Oustau de Baumanière aux émaux cendrés qui dominent la décoration intérieure. Henri D. dresse le panorama d'un art qui ne cesse de conquérir de nouveaux territoires.</summary>
   </entry>
@@ -93,7 +125,7 @@
     <title>Abbas Akbari : le lustre persan reinvente</title>
     <link href="https://ceramique.uk/createurs/abbas-akbari-le-lustre-persan-reinvente/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/createurs/abbas-akbari-le-lustre-persan-reinvente/</id>
-    <published>2023-01-13</published>
+    <published>2023-07-14</published>
     <updated>2023-01-13</updated>
     <summary>Abbas Akbari, né en 1971 à Kashan, a consacré des années de recherche archéologique et chimique à retrouver les recettes médiévales du lustre métallique iranien. Aujourd'hui professeur à l'Université de Kashan et membre de l'AIC, il utilise cette technique millénaire pour créer des carreaux contemporains commentant les enjeux écologiques.</summary>
   </entry>
@@ -101,7 +133,7 @@
     <title>Gwyn Hanssen Pigott : les natures mortes en porcelaine</title>
     <link href="https://ceramique.uk/createurs/gwyn-hanssen-pigott-les-natures-mortes-en-porcelaine/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/createurs/gwyn-hanssen-pigott-les-natures-mortes-en-porcelaine/</id>
-    <published>2023-01-13</published>
+    <published>2023-07-14</published>
     <updated>2023-01-13</updated>
     <summary>Gwyn Hanssen Pigott (1935–2013), formée auprès de Bernard Leach et Michael Cardew, a abandonné la production utilitaire dans les années 1980 pour créer des natures mortes en porcelaine d'une beauté silencieuse, directement inspirées de Morandi. Un des grands chemins de la céramique contemporaine.</summary>
   </entry>
@@ -109,7 +141,7 @@
     <title>Journees du Patrimoine 2022 : la ceramique dans les monuments</title>
     <link href="https://ceramique.uk/saisonnier/journees-du-patrimoine-2022-la-ceramique-dans-les-monuments/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/saisonnier/journees-du-patrimoine-2022-la-ceramique-dans-les-monuments/</id>
-    <published>2022-10-21</published>
+    <published>2023-04-21</published>
     <updated>2022-10-21</updated>
     <summary>À l'occasion des Journées Européennes du Patrimoine 2022, organisées sur le thème du patrimoine durable, la céramique révèle sa présence discrète mais omniprésente dans les monuments français : poêles de faïence à Chambord, kachelofens alsaciens classés, carreaux médiévaux des châteaux de la Loire, décors de Sèvres dans les palais républicains. Un itinéraire pour les regarder enfin.</summary>
   </entry>
@@ -117,7 +149,7 @@
     <title>Zizipho Poswa : les totems ceramiques d'Afrique du Sud</title>
     <link href="https://ceramique.uk/createurs/zizipho-poswa-les-totems-ceramiques-d-afrique-du-sud/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/createurs/zizipho-poswa-les-totems-ceramiques-d-afrique-du-sud/</id>
-    <published>2022-10-21</published>
+    <published>2023-04-21</published>
     <updated>2022-10-21</updated>
     <summary>Née en 1979 à Mthatha en Afrique du Sud, Zizipho Poswa bâtit au colombin des totems céramiques monumentaux qui célèbrent la féminité xhosa. Cofondatrice d'Imiso Ceramics à Cape Town, elle est présente dans les collections du MET, du LACMA et du Philadelphia Museum of Art — une voix majeure de la céramique africaine contemporaine.</summary>
   </entry>
@@ -125,7 +157,7 @@
     <title>Gustavo Perez : le gres sculpte du Mexique</title>
     <link href="https://ceramique.uk/createurs/gustavo-perez-le-gres-sculpte-du-mexique/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/createurs/gustavo-perez-le-gres-sculpte-du-mexique/</id>
-    <published>2022-10-21</published>
+    <published>2023-04-21</published>
     <updated>2022-10-21</updated>
     <summary>Né en 1950 à Mexico, Gustavo Pérez a fait le pari du grès dans un pays de terre cuite — un choix culturellement à contre-courant qui l'a mené de Shigaraki à Sèvres. Quarante-cinq ans d'atelier condensés en 4 500 pièces exposées à Xalapa en 2017 : le portrait d'un maître discret et radical.</summary>
   </entry>
@@ -133,40 +165,8 @@
     <title>Yeesookyung : la porcelaine brisee, recousue d'or</title>
     <link href="https://ceramique.uk/createurs/yeesookyung-la-porcelaine-brisee-recousue-d-or/" rel="alternate" type="text/html"/>
     <id>https://ceramique.uk/createurs/yeesookyung-la-porcelaine-brisee-recousue-d-or/</id>
-    <published>2022-10-14</published>
+    <published>2023-04-14</published>
     <updated>2022-10-14</updated>
     <summary>Yeesookyung, née en 1963 à Séoul, collecte les rebuts des maîtres céramistes coréens — ces fragments jugés imparfaits et détruits selon la tradition — et les assemble en sculptures biomorphes monumentales soudées à l'or 24 carats. Ses Translated Vase, créées depuis 2001, ne réparent pas : elles réinventent.</summary>
-  </entry>
-  <entry>
-    <title>Ceramique contemporaine dans l'architecture publique : la terre au mur</title>
-    <link href="https://ceramique.uk/histoire/ceramique-contemporaine-dans-l-architecture-publique-la-terre-au-mur/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/histoire/ceramique-contemporaine-dans-l-architecture-publique-la-terre-au-mur/</id>
-    <published>2022-10-14</published>
-    <updated>2022-10-14</updated>
-    <summary>Après des décennies d'effacement sous le Mouvement Moderne, la céramique architecturale fait un retour spectaculaire dans les bâtiments publics contemporains. Entre commandes artistiques monumentales, matériaux locaux et enjeux écologiques, la terre cuite habille à nouveau nos villes avec ambition.</summary>
-  </entry>
-  <entry>
-    <title>Mosaique et trencadis : la ceramique en eclats</title>
-    <link href="https://ceramique.uk/histoire/mosaique-et-trencadis-la-ceramique-en-eclats/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/histoire/mosaique-et-trencadis-la-ceramique-en-eclats/</id>
-    <published>2022-10-14</published>
-    <updated>2022-10-14</updated>
-    <summary>Le trencadis, technique de mosaïque née dans les mains de Gaudí et Jujol, transforme les éclats de céramique cassée en surfaces vivantes et ondulantes. Retour sur une invention radicale qui a changé le visage de Barcelone et continue d'inspirer l'art public mondial.</summary>
-  </entry>
-  <entry>
-    <title>Cheminees industrielles : la ceramique qui touche le ciel</title>
-    <link href="https://ceramique.uk/histoire/cheminees-industrielles-la-ceramique-qui-touche-le-ciel/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/histoire/cheminees-industrielles-la-ceramique-qui-touche-le-ciel/</id>
-    <published>2022-10-07</published>
-    <updated>2022-10-07</updated>
-    <summary>Les cheminées industrielles en brique réfractaire sont des monuments céramiques oubliés : construites en argile alumineuse à haute résistance thermique, souvent ornées de motifs en brique polychrome, 69 d'entre elles sont protégées en France. Samir K. retrace leur histoire et alerte sur la disparition d'un savoir-faire briquetier unique.</summary>
-  </entry>
-  <entry>
-    <title>Ceramique Art Deco : quand les facades de Paris se couvrent de terre</title>
-    <link href="https://ceramique.uk/histoire/ceramique-art-deco-quand-les-facades-de-paris-se-couvrent-de-terre/" rel="alternate" type="text/html"/>
-    <id>https://ceramique.uk/histoire/ceramique-art-deco-quand-les-facades-de-paris-se-couvrent-de-terre/</id>
-    <published>2022-10-07</published>
-    <updated>2022-10-07</updated>
-    <summary>Dans les années 1920-1930, la céramique Art Déco investit les façades parisiennes : Henri Sauvage habille ses immeubles à gradins de faïence blanche (26 rue Vavin), la céramique répond aux préoccupations hygiénistes de l'époque, et l'Exposition de 1925 accélère ce mouvement unique en Europe.</summary>
   </entry>
 </feed>
