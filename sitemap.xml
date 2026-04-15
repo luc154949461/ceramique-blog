@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ceramique.uk/science/cristallisation-en-ceramique-la-science-du-hasard-maitrise/</loc>
+    <lastmod>2026-04-14</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/dossier/la-porcelaine-de-limoges-aujourd-hui-entre-heritage-industriel-et-avant-garde/</loc>
+    <lastmod>2026-04-14</lastmod>
+  </url>
+  <url>
+    <loc>https://ceramique.uk/histoire/la-faience-de-quimper-trois-siecles-d-identite-bretonne-en-terre-peinte/</loc>
+    <lastmod>2026-04-14</lastmod>
+  </url>
+  <url>
     <loc>https://ceramique.uk/dossier/les-emaux-ceramiques-science-couleur-et-alchimie-du-feu/</loc>
     <lastmod>2026-04-11</lastmod>
   </url>
@@ -630,7 +642,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/dossier/</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-04-14</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/evenements/</loc>
@@ -638,7 +650,7 @@
   </url>
   <url>
     <loc>https://ceramique.uk/histoire/</loc>
-    <lastmod>2023-04-14</lastmod>
+    <lastmod>2026-04-14</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/portraits/</loc>
@@ -654,10 +666,10 @@
   </url>
   <url>
     <loc>https://ceramique.uk/science/</loc>
-    <lastmod>2023-03-31</lastmod>
+    <lastmod>2026-04-14</lastmod>
   </url>
   <url>
     <loc>https://ceramique.uk/</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-04-14</lastmod>
   </url>
 </urlset>
